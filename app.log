@@ -1,0 +1,1741 @@
+2026-02-19 19:33:53,770 - __main__ - INFO - Starting MidiToPad...
+2026-02-19 19:33:54,551 - src.config.settings - INFO - No config file found, using defaults.
+2026-02-19 19:33:54,704 - src.soundpad.client - WARNING - Soundpad is not running or not reachable.
+2026-02-19 19:34:12,808 - src.soundpad.client - WARNING - Soundpad is not running or not reachable.
+2026-02-19 19:40:24,710 - __main__ - INFO - Python Executable: d:\Programming\Projects\Python\MidiToPad\.venv\Scripts\pythonw.exe
+2026-02-19 19:40:24,710 - __main__ - INFO - Python Path: ['D:\\Programming\\Projects\\Python\\MidiToPad', 'C:\\Users\\Cup11\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\Cup11\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\Cup11\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\Cup11\\AppData\\Local\\Programs\\Python\\Python313', 'd:\\Programming\\Projects\\Python\\MidiToPad\\.venv', 'd:\\Programming\\Projects\\Python\\MidiToPad\\.venv\\Lib\\site-packages']
+2026-02-19 19:40:24,715 - __main__ - INFO - Starting MidiToPad...
+2026-02-19 19:40:24,781 - src.config.settings - INFO - No config file found, using defaults.
+2026-02-19 19:40:24,910 - src.soundpad.client - WARNING - Soundpad is not running or not reachable.
+2026-02-19 19:55:24,959 - src.soundpad.client - WARNING - Soundpad is not running or not reachable.
+2026-02-19 19:56:05,234 - __main__ - INFO - Starting MidiToPad...
+2026-02-19 19:56:05,306 - src.config.settings - INFO - No config file found, using defaults.
+2026-02-19 19:56:05,443 - src.soundpad.client - WARNING - Soundpad is not running or not reachable.
+2026-02-19 19:58:49,023 - __main__ - INFO - Starting MidiToPad...
+2026-02-19 19:58:49,082 - src.config.settings - INFO - No config file found, using defaults.
+2026-02-19 19:58:49,207 - src.soundpad.client - WARNING - Soundpad is not running or not reachable.
+2026-02-19 19:59:41,628 - src.midi.manager - INFO - Opened MIDI port: SMK25 0
+2026-02-19 19:59:41,629 - src.config.settings - INFO - Configuration saved.
+2026-02-19 19:59:44,377 - src.midi.manager - INFO - Closed MIDI port.
+2026-02-19 19:59:44,378 - src.midi.manager - INFO - Opened MIDI port: SMK25 0
+2026-02-19 19:59:44,378 - src.config.settings - INFO - Configuration saved.
+2026-02-19 19:59:49,936 - src.midi.manager - INFO - Closed MIDI port.
+2026-02-19 19:59:49,937 - src.midi.manager - INFO - Opened MIDI port: MIDIIN2 (SMK25) 1
+2026-02-19 19:59:49,937 - src.config.settings - INFO - Configuration saved.
+2026-02-19 20:00:57,283 - src.midi.manager - INFO - Closed MIDI port.
+2026-02-19 20:00:57,284 - src.midi.manager - INFO - Opened MIDI port: MIDIIN2 (SMK25) 1
+2026-02-19 20:00:57,284 - src.config.settings - INFO - Configuration saved.
+2026-02-19 20:01:58,436 - src.midi.manager - INFO - Closed MIDI port.
+2026-02-19 20:01:58,436 - src.midi.manager - INFO - Opened MIDI port: MIDIIN2 (SMK25) 1
+2026-02-19 20:01:58,437 - src.config.settings - INFO - Configuration saved.
+2026-02-19 20:03:12,165 - __main__ - INFO - Starting MidiToPad...
+2026-02-19 20:03:12,237 - src.config.settings - INFO - Configuration loaded.
+2026-02-19 20:03:12,379 - src.soundpad.client - WARNING - Soundpad is not running or not reachable.
+2026-02-19 20:03:12,414 - src.midi.manager - INFO - Opened MIDI port: MIDIIN2 (SMK25) 1
+2026-02-19 21:17:52,242 - __main__ - INFO - Starting MidiToPad...
+2026-02-19 21:17:52,310 - src.config.settings - INFO - Configuration loaded.
+2026-02-19 21:17:52,447 - src.soundpad.client - WARNING - Soundpad is not running or not reachable.
+2026-02-19 21:17:52,472 - src.midi.manager - INFO - Opened MIDI port: MIDIIN2 (SMK25) 1
+2026-02-19 22:20:45,436 - __main__ - INFO - Starting MidiToPad...
+2026-02-19 22:20:45,504 - src.config.settings - INFO - Configuration loaded.
+2026-02-19 22:20:45,645 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-19 22:20:45,669 - src.midi.manager - INFO - Opened MIDI port: MIDIIN2 (SMK25) 1
+2026-02-19 22:20:45,670 - src.gui.app - INFO - Loaded 4 sounds.
+2026-02-19 22:21:01,440 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-19 22:21:01,443 - src.gui.app - INFO - Loaded 4 sounds.
+2026-02-19 22:21:03,755 - src.midi.manager - INFO - Closed MIDI port.
+2026-02-19 22:21:03,756 - src.midi.manager - INFO - Opened MIDI port: SMK25 0
+2026-02-19 22:21:03,757 - src.config.settings - INFO - Configuration saved.
+2026-02-20 00:01:15,861 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 00:01:16,605 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 00:01:16,757 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 00:01:16,885 - src.gui.app - INFO - Loaded 4 sounds.
+2026-02-20 00:02:00,351 - src.config.settings - INFO - Configuration saved.
+2026-02-20 00:02:04,161 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 00:02:04,163 - src.gui.app - INFO - Loaded 4 sounds.
+2026-02-20 00:16:46,504 - src.config.settings - INFO - Configuration saved.
+2026-02-20 00:16:56,626 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 00:16:56,627 - src.gui.app - INFO - Loaded 4 sounds.
+2026-02-20 00:25:43,487 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 00:25:43,573 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 00:25:43,647 - src.soundpad.parser - INFO - No explicit categories found, returning all sounds as 'All Sounds'
+2026-02-20 00:25:43,780 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 00:25:43,805 - src.gui.app - INFO - Loaded 4 sounds.
+2026-02-20 00:25:52,291 - src.gui.app - INFO - Selected sound from library: Unknown
+2026-02-20 00:25:52,506 - src.gui.app - INFO - Selected sound from library: Unknown
+2026-02-20 00:25:54,304 - src.gui.app - INFO - Selected sound from library: Unknown
+2026-02-20 00:25:54,515 - src.gui.app - INFO - Selected sound from library: Unknown
+2026-02-20 00:25:58,179 - src.gui.app - INFO - Selected sound from library: Unknown
+2026-02-20 00:25:58,372 - src.gui.app - INFO - Selected sound from library: Unknown
+2026-02-20 00:26:00,287 - src.gui.app - INFO - Selected sound from library: Unknown
+2026-02-20 00:26:01,463 - src.gui.app - INFO - Selected sound from library: Unknown
+2026-02-20 00:26:01,689 - src.gui.app - INFO - Selected sound from library: Unknown
+2026-02-20 00:26:02,857 - src.gui.app - INFO - Selected sound from library: Unknown
+2026-02-20 00:26:03,067 - src.gui.app - INFO - Selected sound from library: Unknown
+2026-02-20 00:26:05,044 - src.gui.app - INFO - Selected sound from library: Unknown
+2026-02-20 00:26:05,248 - src.gui.app - INFO - Selected sound from library: Unknown
+2026-02-20 00:37:15,662 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 00:37:15,728 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 00:37:15,768 - src.soundpad.parser - INFO - No explicit categories found, returning all sounds as 'All Sounds'
+2026-02-20 00:37:15,926 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 00:37:15,949 - src.gui.app - INFO - Loaded 4 sounds.
+2026-02-20 00:37:18,600 - src.gui.app - INFO - Selected sound from library: Unknown
+2026-02-20 00:37:18,757 - src.gui.app - INFO - Selected sound from library: Unknown
+2026-02-20 00:37:19,155 - src.gui.app - INFO - Selected sound from library: Unknown
+2026-02-20 00:37:19,566 - src.gui.app - INFO - Selected sound from library: Unknown
+2026-02-20 00:37:19,919 - src.gui.app - INFO - Selected sound from library: Unknown
+2026-02-20 00:40:02,143 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 00:40:02,214 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 00:40:02,386 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 00:40:02,409 - src.gui.app - INFO - Loaded 4 sounds.
+2026-02-20 00:40:04,995 - src.gui.app - INFO - Selected sound from library: firework
+2026-02-20 00:40:05,128 - src.gui.app - INFO - Double-click playing sound index: 2
+2026-02-20 00:40:06,148 - src.gui.app - INFO - Selected sound from library: firework
+2026-02-20 00:40:06,299 - src.gui.app - INFO - Double-click playing sound index: 2
+2026-02-20 00:40:06,661 - src.gui.app - INFO - Selected sound from library: cue
+2026-02-20 00:40:06,839 - src.gui.app - INFO - Double-click playing sound index: 3
+2026-02-20 00:40:07,260 - src.gui.app - INFO - Selected sound from library: firework
+2026-02-20 00:40:07,425 - src.gui.app - INFO - Double-click playing sound index: 2
+2026-02-20 00:40:08,135 - src.gui.app - INFO - Selected sound from library: firework
+2026-02-20 00:40:08,264 - src.gui.app - INFO - Double-click playing sound index: 2
+2026-02-20 00:40:08,555 - src.gui.app - INFO - Double-click playing sound index: 2
+2026-02-20 00:40:08,954 - src.gui.app - INFO - Selected sound from library: ba dum tss
+2026-02-20 00:40:09,111 - src.gui.app - INFO - Double-click playing sound index: 1
+2026-02-20 00:42:50,044 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 00:42:50,111 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 00:42:50,265 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 00:42:50,283 - src.gui.app - INFO - Loaded 4 sounds.
+2026-02-20 00:42:52,683 - src.gui.app - INFO - Selected sound from library: firework
+2026-02-20 00:42:52,798 - src.gui.app - INFO - Double-click playing sound index: 2
+2026-02-20 00:42:54,204 - src.gui.app - INFO - Selected sound from library: firework
+2026-02-20 00:42:54,351 - src.gui.app - INFO - Double-click playing sound index: 2
+2026-02-20 00:42:56,397 - src.gui.app - INFO - Selected sound from library: firework
+2026-02-20 00:42:57,142 - src.gui.app - INFO - Selected sound from library: cue
+2026-02-20 00:42:58,050 - src.gui.app - INFO - Selected sound from library: firework
+2026-02-20 00:42:58,206 - src.gui.app - INFO - Double-click playing sound index: 2
+2026-02-20 00:42:59,349 - src.gui.app - INFO - Selected sound from library: ba dum tss
+2026-02-20 00:43:01,797 - src.gui.app - INFO - Selected sound from library: ba dum tss
+2026-02-20 00:43:02,621 - src.gui.app - INFO - Selected sound from library: ba dum tss
+2026-02-20 00:43:02,759 - src.gui.app - INFO - Double-click playing sound index: 1
+2026-02-20 00:43:03,023 - src.gui.app - INFO - Selected sound from library: firework
+2026-02-20 00:43:03,163 - src.gui.app - INFO - Double-click playing sound index: 2
+2026-02-20 00:43:04,218 - src.gui.app - INFO - Selected sound from library: cue
+2026-02-20 00:43:04,364 - src.gui.app - INFO - Double-click playing sound index: 3
+2026-02-20 00:43:04,820 - src.gui.app - INFO - Selected sound from library: scream
+2026-02-20 00:43:04,949 - src.gui.app - INFO - Double-click playing sound index: 4
+2026-02-20 00:43:05,332 - src.gui.app - INFO - Selected sound from library: firework
+2026-02-20 00:43:06,135 - src.config.settings - INFO - Configuration saved.
+2026-02-20 00:43:14,842 - src.gui.app - INFO - Selected sound from library: cue
+2026-02-20 00:43:21,764 - src.midi.manager - INFO - Opened MIDI port: SMK25 0
+2026-02-20 00:43:21,764 - src.config.settings - INFO - Configuration saved.
+2026-02-20 00:43:25,781 - src.midi.manager - INFO - Closed MIDI port.
+2026-02-20 00:43:25,782 - src.midi.manager - INFO - Opened MIDI port: MIDIIN2 (SMK25) 1
+2026-02-20 00:43:25,782 - src.config.settings - INFO - Configuration saved.
+2026-02-20 00:43:27,855 - src.gui.app - INFO - Selected sound from library: cue
+2026-02-20 00:44:32,553 - src.config.settings - INFO - Configuration saved.
+2026-02-20 00:44:33,275 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:44:33,696 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:44:34,185 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:44:34,595 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:44:36,235 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:44:38,766 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:44:53,379 - src.gui.app - INFO - Selected sound from library: cue
+2026-02-20 00:44:56,007 - src.gui.app - INFO - Selected sound from library: firework
+2026-02-20 00:44:56,303 - src.gui.app - INFO - Selected sound from library: cue
+2026-02-20 00:44:56,416 - src.gui.app - INFO - Double-click playing sound index: 3
+2026-02-20 00:44:57,378 - src.gui.app - INFO - Selected sound from library: firework
+2026-02-20 00:44:57,519 - src.gui.app - INFO - Double-click playing sound index: 2
+2026-02-20 00:47:23,235 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:47:23,735 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:47:24,474 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:47:24,966 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:47:25,474 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:47:25,944 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:47:26,474 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:47:26,880 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:47:27,304 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:47:27,665 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:47:28,085 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:47:28,394 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:47:28,804 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:47:29,145 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:47:29,536 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:47:29,914 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:47:30,295 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:47:30,645 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:47:31,525 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:47:35,105 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:47:35,364 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:47:35,755 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:47:36,065 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:47:36,365 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:47:36,625 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:47:36,946 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:47:37,235 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:47:37,576 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:47:37,894 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:47:38,168 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:47:38,477 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:47:38,835 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:47:39,216 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:47:39,667 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:47:40,216 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:47:40,736 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:47:41,535 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:47:42,106 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:47:42,635 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:47:43,106 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:47:43,375 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:47:44,015 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:47:44,545 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:47:44,968 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:47:45,415 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:47:45,836 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:47:46,556 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:47:46,754 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:47:46,943 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:47:47,156 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:47:48,194 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:47:48,984 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:47:49,293 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:47:49,794 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:48:14,824 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:48:15,855 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:48:16,435 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:48:16,733 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:48:16,954 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:48:17,144 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:48:18,504 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:48:19,045 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:48:19,564 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:48:19,985 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:48:21,504 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:48:21,815 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:48:22,704 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:48:23,515 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:48:25,174 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:48:25,635 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:48:26,705 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:48:27,334 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:48:27,645 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:48:27,863 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:48:28,084 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:48:28,717 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:48:29,085 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:48:30,254 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:48:31,525 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:48:32,515 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:48:41,225 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 00:48:41,227 - src.gui.app - INFO - Loaded 4 sounds.
+2026-02-20 00:49:13,201 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 00:49:13,206 - src.soundpad.client - ERROR - Failed to parse Soundpad XML: unclosed token: line 7, column 2
+2026-02-20 00:49:13,208 - src.gui.app - INFO - Loaded 0 sounds.
+2026-02-20 00:49:30,153 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 00:49:30,225 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 00:49:30,513 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 00:49:30,513 - src.soundpad.client - ERROR - Failed to parse Soundpad XML: unclosed token: line 7, column 2
+2026-02-20 00:49:30,536 - src.midi.manager - INFO - Opened MIDI port: MIDIIN2 (SMK25) 1
+2026-02-20 00:49:30,596 - src.gui.app - INFO - Loaded 0 sounds.
+2026-02-20 00:49:37,057 - src.soundpad.client - WARNING - Soundpad is not running or not reachable.
+2026-02-20 00:49:38,482 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 00:49:38,482 - src.soundpad.client - ERROR - Error getting sound list: An error occurred while making a request to Soundpad. (Response: R-200)
+2026-02-20 00:49:38,485 - src.gui.app - INFO - Loaded 0 sounds.
+2026-02-20 00:49:39,330 - src.soundpad.client - WARNING - Soundpad is not running or not reachable.
+2026-02-20 00:49:41,985 - src.soundpad.client - WARNING - Soundpad is not running or not reachable.
+2026-02-20 00:49:47,943 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:49:48,313 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:49:48,723 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:49:49,125 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:49:50,540 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 00:49:50,541 - src.soundpad.client - ERROR - Error getting sound list: An error occurred while making a request to Soundpad. (Response: R-200)
+2026-02-20 00:49:50,543 - src.gui.app - INFO - Loaded 0 sounds.
+2026-02-20 00:49:51,424 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:49:54,476 - src.gui.app - INFO - Selected sound from library: firework
+2026-02-20 00:49:59,124 - src.gui.app - INFO - Selected sound from library: firework
+2026-02-20 00:50:02,307 - src.gui.app - INFO - Selected sound from library: firework
+2026-02-20 00:50:02,935 - src.gui.app - INFO - Selected sound from library: cue
+2026-02-20 00:50:04,640 - src.gui.app - INFO - Selected sound from library: firework
+2026-02-20 00:50:05,250 - src.gui.app - INFO - Selected sound from library: firework
+2026-02-20 00:50:05,880 - src.gui.app - INFO - Selected sound from library: firework
+2026-02-20 00:50:09,335 - src.gui.app - INFO - Selected sound from library: ba dum tss
+2026-02-20 00:50:09,867 - src.gui.app - INFO - Selected sound from library: ba dum tss
+2026-02-20 00:50:48,200 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 00:50:48,281 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 00:50:48,552 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 00:50:48,552 - src.soundpad.client - ERROR - Failed to parse Soundpad XML: unclosed token: line 7, column 2
+2026-02-20 00:50:48,571 - src.midi.manager - INFO - Opened MIDI port: MIDIIN2 (SMK25) 1
+2026-02-20 00:50:48,572 - src.gui.app - INFO - Loaded 0 sounds.
+2026-02-20 00:50:50,650 - src.gui.app - INFO - Selected sound from library: white_noise
+2026-02-20 00:50:50,805 - src.gui.app - INFO - Double-click playing sound index: 5
+2026-02-20 00:56:06,455 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 00:56:06,527 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 00:56:06,784 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 00:56:06,785 - src.soundpad.client - ERROR - Failed to parse Soundpad XML: unclosed token: line 7, column 2
+2026-02-20 00:56:06,806 - src.midi.manager - ERROR - Error opening MIDI port MIDIIN2 (SMK25) 1: MidiInWinMM::openPort: error creating Windows MM MIDI input port.
+2026-02-20 00:56:06,807 - src.gui.app - INFO - Loaded 0 sounds.
+2026-02-20 00:57:06,106 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 00:57:06,176 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 00:57:06,357 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 00:57:06,358 - src.soundpad.client - ERROR - Failed to parse Soundpad XML: unclosed token: line 7, column 2
+2026-02-20 00:57:06,377 - src.midi.manager - ERROR - Error opening MIDI port MIDIIN2 (SMK25) 1: MidiInWinMM::openPort: error creating Windows MM MIDI input port.
+2026-02-20 00:57:06,382 - src.gui.app - INFO - Loaded 0 sounds.
+2026-02-20 00:57:12,813 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:57:15,562 - src.midi.manager - INFO - Opened MIDI port: MIDIIN3 (SMK25) 2
+2026-02-20 00:57:15,562 - src.config.settings - INFO - Configuration saved.
+2026-02-20 00:57:24,504 - src.gui.app - INFO - Selected sound from library: firework
+2026-02-20 00:57:24,661 - src.gui.app - INFO - Double-click playing sound index: 2
+2026-02-20 00:58:09,370 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 00:58:09,442 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 00:58:09,713 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 00:58:09,714 - src.soundpad.client - ERROR - Failed to parse Soundpad XML: unclosed token: line 7, column 2
+2026-02-20 00:58:09,733 - src.midi.manager - INFO - Opened MIDI port: MIDIIN3 (SMK25) 2
+2026-02-20 00:58:09,735 - src.gui.app - INFO - Loaded 0 sounds.
+2026-02-20 00:58:35,972 - src.midi.manager - INFO - Closed MIDI port.
+2026-02-20 00:58:35,973 - src.midi.manager - INFO - Opened MIDI port: SMK25 0
+2026-02-20 00:58:35,974 - src.config.settings - INFO - Configuration saved.
+2026-02-20 00:58:37,151 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:58:38,739 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:58:39,690 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:58:42,299 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 00:58:45,787 - src.gui.app - INFO - Bind Playing Status: R-200PLAYING
+2026-02-20 00:58:50,547 - src.gui.app - INFO - Bind Playing Status: STOPPED
+2026-02-20 00:59:10,900 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 00:59:10,964 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 00:59:11,152 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 00:59:11,153 - src.soundpad.client - ERROR - Failed to parse Soundpad XML: unclosed token: line 7, column 2
+2026-02-20 00:59:11,171 - src.midi.manager - INFO - Opened MIDI port: SMK25 0
+2026-02-20 00:59:11,176 - src.gui.app - INFO - Loaded 0 sounds.
+2026-02-20 00:59:14,448 - src.gui.app - INFO - Selected sound from library: white_noise
+2026-02-20 01:00:57,447 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 01:00:59,269 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 01:00:59,988 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 01:01:00,679 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 01:01:01,238 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 01:01:01,858 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 01:01:02,769 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 01:01:03,408 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 01:01:03,878 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 01:01:04,828 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 01:01:05,338 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 01:01:06,137 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 01:01:06,576 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 01:01:07,076 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 01:01:07,447 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 01:01:07,807 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 01:01:08,147 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 01:01:08,426 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 01:01:08,647 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 01:01:08,829 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 01:01:08,977 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 01:01:09,106 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 01:01:09,247 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 01:01:09,386 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 01:01:09,527 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 01:01:09,657 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 01:01:09,807 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 01:18:22,077 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 01:18:22,152 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 01:18:22,323 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 01:18:22,323 - src.soundpad.client - ERROR - Failed to parse Soundpad XML: unclosed token: line 7, column 2
+2026-02-20 01:18:22,342 - src.midi.manager - INFO - Opened MIDI port: SMK25 0
+2026-02-20 01:18:22,347 - src.gui.app - INFO - Loaded 0 sounds.
+2026-02-20 01:18:36,822 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 01:18:36,883 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 01:18:37,067 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 01:18:37,067 - src.soundpad.client - ERROR - Failed to parse Soundpad XML: unclosed token: line 7, column 2
+2026-02-20 01:18:37,089 - src.midi.manager - INFO - Opened MIDI port: SMK25 0
+2026-02-20 01:18:37,093 - src.gui.app - INFO - Loaded 0 sounds.
+2026-02-20 01:19:00,153 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 01:19:00,218 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 01:19:00,397 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 01:19:00,398 - src.soundpad.client - ERROR - Failed to parse Soundpad XML: unclosed token: line 7, column 2
+2026-02-20 01:19:00,419 - src.midi.manager - INFO - Opened MIDI port: SMK25 0
+2026-02-20 01:19:00,425 - src.gui.app - INFO - Loaded 0 sounds.
+2026-02-20 01:19:20,007 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 01:19:20,069 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 01:19:20,235 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 01:19:20,236 - src.soundpad.client - ERROR - Failed to parse Soundpad XML: unclosed token: line 7, column 2
+2026-02-20 01:19:20,255 - src.midi.manager - INFO - Opened MIDI port: SMK25 0
+2026-02-20 01:19:20,259 - src.gui.app - INFO - Loaded 0 sounds.
+2026-02-20 01:28:22,180 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 01:28:22,244 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 01:28:22,411 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 01:28:22,411 - src.soundpad.client - ERROR - Failed to parse Soundpad XML: unclosed token: line 7, column 2
+2026-02-20 01:28:22,431 - src.midi.manager - INFO - Opened MIDI port: SMK25 0
+2026-02-20 01:28:22,435 - src.gui.app - INFO - Loaded 0 sounds.
+2026-02-20 01:33:50,128 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 01:33:50,196 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 01:33:50,226 - __main__ - CRITICAL - App crashed: 'VisualKeyboard' object has no attribute 'height'
+Traceback (most recent call last):
+  File "d:\Programming\Projects\Python\MidiToPad\main.py", line 31, in <module>
+    app = App()
+  File "d:\Programming\Projects\Python\MidiToPad\src\gui\app.py", line 78, in __init__
+    self.keyboard = VisualKeyboard(self.main_frame, start_octave=4, num_octaves=2, height=200)
+                    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\Programming\Projects\Python\MidiToPad\src\gui\visual_keyboard.py", line 19, in __init__
+    self.canvas = ctk.CTkCanvas(self, height=self.height, bg="gray20", highlightthickness=0)
+                                             ^^^^^^^^^^^
+AttributeError: 'VisualKeyboard' object has no attribute 'height'
+2026-02-20 01:33:57,043 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 01:33:57,104 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 01:33:57,132 - __main__ - CRITICAL - App crashed: 'VisualKeyboard' object has no attribute 'height'
+Traceback (most recent call last):
+  File "d:\Programming\Projects\Python\MidiToPad\main.py", line 31, in <module>
+    app = App()
+  File "d:\Programming\Projects\Python\MidiToPad\src\gui\app.py", line 78, in __init__
+    self.keyboard = VisualKeyboard(self.main_frame, start_octave=4, num_octaves=2, height=200)
+                    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\Programming\Projects\Python\MidiToPad\src\gui\visual_keyboard.py", line 19, in __init__
+    self.canvas = ctk.CTkCanvas(self, height=self.height, bg="gray20", highlightthickness=0)
+                                             ^^^^^^^^^^^
+AttributeError: 'VisualKeyboard' object has no attribute 'height'
+2026-02-20 01:33:59,700 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 01:33:59,761 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 01:33:59,790 - __main__ - CRITICAL - App crashed: 'VisualKeyboard' object has no attribute 'height'
+Traceback (most recent call last):
+  File "d:\Programming\Projects\Python\MidiToPad\main.py", line 31, in <module>
+    app = App()
+  File "d:\Programming\Projects\Python\MidiToPad\src\gui\app.py", line 78, in __init__
+    self.keyboard = VisualKeyboard(self.main_frame, start_octave=4, num_octaves=2, height=200)
+                    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\Programming\Projects\Python\MidiToPad\src\gui\visual_keyboard.py", line 19, in __init__
+    self.canvas = ctk.CTkCanvas(self, height=self.height, bg="gray20", highlightthickness=0)
+                                             ^^^^^^^^^^^
+AttributeError: 'VisualKeyboard' object has no attribute 'height'
+2026-02-20 01:34:18,847 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 01:34:18,909 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 01:34:18,938 - __main__ - CRITICAL - App crashed: 'VisualKeyboard' object has no attribute 'height'
+Traceback (most recent call last):
+  File "d:\Programming\Projects\Python\MidiToPad\main.py", line 31, in <module>
+    app = App()
+  File "d:\Programming\Projects\Python\MidiToPad\src\gui\app.py", line 78, in __init__
+    self.keyboard = VisualKeyboard(self.main_frame, start_octave=4, num_octaves=2, height=200)
+                    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\Programming\Projects\Python\MidiToPad\src\gui\visual_keyboard.py", line 19, in __init__
+    self.canvas = ctk.CTkCanvas(self, height=self.height, bg="gray20", highlightthickness=0)
+                                             ^^^^^^^^^^^
+AttributeError: 'VisualKeyboard' object has no attribute 'height'
+2026-02-20 01:35:02,523 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 01:35:02,590 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 01:35:02,618 - __main__ - CRITICAL - App crashed: 'VisualKeyboard' object has no attribute 'height'
+Traceback (most recent call last):
+  File "d:\Programming\Projects\Python\MidiToPad\main.py", line 31, in <module>
+    app = App()
+  File "d:\Programming\Projects\Python\MidiToPad\src\gui\app.py", line 78, in __init__
+    self.keyboard = VisualKeyboard(self.main_frame, start_octave=4, num_octaves=2, height=200)
+                    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\Programming\Projects\Python\MidiToPad\src\gui\visual_keyboard.py", line 19, in __init__
+    self.canvas = ctk.CTkCanvas(self, height=self.height, bg="gray20", highlightthickness=0)
+                                             ^^^^^^^^^^^
+AttributeError: 'VisualKeyboard' object has no attribute 'height'
+2026-02-20 01:36:33,195 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 01:36:33,372 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 01:36:33,400 - __main__ - CRITICAL - App crashed: 'VisualKeyboard' object has no attribute 'height'
+Traceback (most recent call last):
+  File "D:\Programming\Projects\Python\MidiToPad\main.py", line 31, in <module>
+    app = App()
+  File "D:\Programming\Projects\Python\MidiToPad\src\gui\app.py", line 78, in __init__
+    self.keyboard = VisualKeyboard(self.main_frame, start_octave=4, num_octaves=2, height=200)
+                    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Projects\Python\MidiToPad\src\gui\visual_keyboard.py", line 19, in __init__
+    self.canvas = ctk.CTkCanvas(self, height=self.height, bg="gray20", highlightthickness=0)
+                                             ^^^^^^^^^^^
+AttributeError: 'VisualKeyboard' object has no attribute 'height'
+2026-02-20 01:37:47,706 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 01:37:47,773 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 01:37:47,962 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 01:37:47,963 - src.soundpad.client - ERROR - Failed to parse Soundpad XML: unclosed token: line 7, column 2
+2026-02-20 01:37:47,983 - src.midi.manager - INFO - Opened MIDI port: SMK25 0
+2026-02-20 01:37:47,987 - src.gui.app - INFO - Loaded 0 sounds.
+2026-02-20 01:38:02,135 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 01:38:02,595 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 01:38:04,185 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 01:38:04,655 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 01:39:09,946 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 01:39:18,004 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 01:39:18,455 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 01:39:18,685 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 01:39:18,885 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 01:39:19,085 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 01:39:19,284 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 01:39:19,476 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 01:52:43,223 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 01:52:43,299 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 01:52:43,564 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 01:52:43,564 - src.soundpad.client - ERROR - Failed to parse Soundpad XML: unclosed token: line 7, column 2
+2026-02-20 01:52:43,584 - src.midi.manager - ERROR - Error opening MIDI port SMK25 0: MidiInWinMM::openPort: error creating Windows MM MIDI input port.
+2026-02-20 01:52:43,586 - src.gui.app - INFO - Loaded 0 sounds.
+2026-02-20 01:52:49,629 - src.config.settings - INFO - Configuration saved.
+2026-02-20 02:01:28,888 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 02:01:28,975 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 02:01:29,226 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 02:01:29,226 - src.soundpad.client - ERROR - Failed to parse Soundpad XML: unclosed token: line 7, column 2
+2026-02-20 02:01:29,249 - src.midi.manager - ERROR - Error opening MIDI port SMK25 0: MidiInWinMM::openPort: error creating Windows MM MIDI input port.
+2026-02-20 02:01:29,251 - src.gui.app - INFO - Loaded 0 sounds.
+2026-02-20 02:01:35,484 - src.gui.app - INFO - Selected sound from library: cue
+2026-02-20 02:01:44,441 - src.soundpad.client - WARNING - Soundpad is not running or not reachable.
+2026-02-20 02:01:45,158 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 02:01:45,159 - src.soundpad.client - ERROR - Error getting sound list: An error occurred while making a request to Soundpad. (Response: R-200)
+2026-02-20 02:01:45,160 - src.gui.app - INFO - Loaded 0 sounds.
+2026-02-20 02:01:46,280 - src.gui.app - INFO - Selected sound from library: cue
+2026-02-20 02:01:50,481 - src.gui.app - INFO - Selected sound from library: scream
+2026-02-20 02:02:45,815 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 02:02:45,877 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 02:02:46,053 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 02:02:46,054 - src.soundpad.client - ERROR - Failed to parse Soundpad XML: unclosed token: line 7, column 2
+2026-02-20 02:02:46,072 - src.midi.manager - INFO - Opened MIDI port: SMK25 0
+2026-02-20 02:02:46,076 - src.gui.app - INFO - Loaded 0 sounds.
+2026-02-20 02:02:50,719 - src.gui.app - INFO - Selected sound from library: cue
+2026-02-20 02:02:53,789 - src.gui.app - INFO - Selected sound from library: scream
+2026-02-20 02:03:07,695 - src.config.settings - INFO - Configuration saved.
+2026-02-20 02:03:14,233 - src.gui.app - INFO - Selected sound from library: cue
+2026-02-20 02:03:15,039 - src.gui.app - INFO - Selected sound from library: scream
+2026-02-20 02:03:21,360 - src.gui.app - INFO - Selected sound from library: firework
+2026-02-20 02:04:01,804 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 02:04:01,870 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 02:04:02,120 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 02:04:02,120 - src.soundpad.client - ERROR - Failed to parse Soundpad XML: unclosed token: line 7, column 2
+2026-02-20 02:04:02,139 - src.midi.manager - INFO - Opened MIDI port: SMK25 0
+2026-02-20 02:04:02,140 - src.gui.app - INFO - Loaded 0 sounds.
+2026-02-20 02:04:03,794 - src.gui.app - INFO - Selected sound from library: cue
+2026-02-20 02:04:05,625 - src.gui.app - INFO - Selected sound from library: cue
+2026-02-20 02:04:24,182 - src.gui.app - INFO - Selected sound from library: firework
+2026-02-20 02:08:44,327 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 02:08:44,389 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 02:08:44,583 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 02:08:44,584 - src.soundpad.client - ERROR - Failed to parse Soundpad XML: unclosed token: line 7, column 2
+2026-02-20 02:08:44,604 - src.midi.manager - INFO - Opened MIDI port: SMK25 0
+2026-02-20 02:08:44,606 - src.gui.app - WARNING - Soundpad connected but returned 0 sounds. Check Soundpad configuration or restart it.
+2026-02-20 02:08:56,790 - src.config.settings - INFO - Configuration saved.
+2026-02-20 02:09:08,521 - src.gui.app - INFO - Selected sound from library: cue
+2026-02-20 02:09:12,163 - src.gui.app - INFO - Selected sound from library: cue
+2026-02-20 02:09:12,480 - src.gui.app - INFO - Selected sound from library: scream
+2026-02-20 02:09:12,741 - src.gui.app - INFO - Selected sound from library: cue
+2026-02-20 02:09:13,359 - src.gui.app - INFO - Trying to match library sound 'cue' against 0 API sounds.
+2026-02-20 02:09:36,213 - src.gui.app - INFO - Playing sound index 3 for note 58
+2026-02-20 02:21:56,349 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 02:21:56,416 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 02:21:56,665 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 02:21:56,685 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 02:22:02,509 - src.gui.app - INFO - Selected sound from library: firework
+2026-02-20 02:22:03,287 - src.gui.app - INFO - Trying to match library sound 'firework' against 5 API sounds.
+2026-02-20 02:22:03,288 - src.config.settings - INFO - Configuration saved.
+2026-02-20 02:22:15,802 - src.midi.manager - INFO - Opened MIDI port: SMK25 0
+2026-02-20 02:22:15,803 - src.config.settings - INFO - Configuration saved.
+2026-02-20 02:22:18,421 - src.gui.app - INFO - Selected sound from library: firework
+2026-02-20 02:22:18,743 - src.gui.app - INFO - Selected sound from library: cue
+2026-02-20 02:22:20,468 - src.gui.app - INFO - Selected sound from library: scream
+2026-02-20 02:22:22,223 - src.gui.app - INFO - Selected sound from library: cue
+2026-02-20 02:22:22,975 - src.gui.app - INFO - Trying to match library sound 'cue' against 5 API sounds.
+2026-02-20 02:22:22,976 - src.config.settings - INFO - Configuration saved.
+2026-02-20 02:22:24,909 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 02:22:25,369 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 02:22:26,098 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 02:22:26,429 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 02:22:27,009 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 02:22:27,268 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 02:22:27,809 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 02:22:27,958 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 02:22:28,189 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 02:22:28,288 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 02:26:09,893 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 02:26:09,964 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 02:26:10,213 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 02:26:10,239 - src.midi.manager - INFO - Opened MIDI port: SMK25 0
+2026-02-20 02:26:10,241 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 02:26:10,242 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 02:26:10,318 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 02:27:40,503 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 02:27:40,614 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 02:27:40,914 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 02:27:40,937 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 02:27:40,940 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 02:27:40,997 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 02:27:46,626 - src.gui.app - INFO - Selected sound from library: ba dum tss
+2026-02-20 02:27:46,888 - src.gui.app - INFO - Double-click playing sound index: 1
+2026-02-20 02:27:47,876 - src.gui.app - INFO - Selected sound from library: ba dum tss
+2026-02-20 02:27:48,089 - src.gui.app - INFO - Double-click playing sound index: 1
+2026-02-20 02:27:51,755 - src.gui.app - INFO - Selected sound from library: firework
+2026-02-20 02:27:52,752 - src.gui.app - INFO - Selected sound from library: ba dum tss
+2026-02-20 02:27:53,350 - src.gui.app - INFO - Selected sound from library: ba dum tss
+2026-02-20 02:27:54,717 - src.gui.app - INFO - Trying to match library sound 'ba dum tss' against 5 API sounds.
+2026-02-20 02:27:54,718 - src.config.settings - INFO - Configuration saved.
+2026-02-20 07:28:40,381 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 07:28:40,474 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 07:28:40,726 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 07:28:40,744 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 07:28:40,746 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 07:28:40,802 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 07:29:00,691 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 07:29:00,764 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 07:29:01,008 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 07:29:01,028 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 07:29:01,029 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 07:29:01,079 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 07:40:29,908 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 07:40:29,995 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 07:40:30,333 - src.soundpad.client - WARNING - Soundpad is not running or not reachable.
+2026-02-20 07:40:30,357 - src.soundpad.client - WARNING - Soundpad is not running or not reachable.
+2026-02-20 07:40:51,063 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 07:40:51,067 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 07:41:09,245 - src.gui.app - INFO - Selected sound from library: firework
+2026-02-20 07:41:09,407 - src.gui.app - INFO - Double-click playing sound index: 2
+2026-02-20 07:41:15,131 - src.gui.app - INFO - Selected sound from library: firework
+2026-02-20 07:41:16,114 - src.gui.app - INFO - Selected sound from library: firework
+2026-02-20 07:41:16,238 - src.gui.app - INFO - Double-click playing sound index: 2
+2026-02-20 07:41:18,648 - src.gui.app - INFO - Selected sound from library: cue
+2026-02-20 07:43:25,252 - src.config.settings - INFO - Configuration saved.
+2026-02-20 07:43:29,817 - src.config.settings - INFO - Configuration saved.
+2026-02-20 07:43:34,863 - src.config.settings - INFO - Configuration saved.
+2026-02-20 07:43:39,006 - src.config.settings - INFO - Configuration saved.
+2026-02-20 07:43:41,480 - src.config.settings - INFO - Configuration saved.
+2026-02-20 07:44:02,707 - src.config.settings - INFO - Configuration saved.
+2026-02-20 07:57:29,624 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 07:57:29,713 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 07:57:29,976 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 07:57:29,994 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 07:57:29,996 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 07:57:30,039 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 07:57:36,632 - src.config.settings - INFO - Configuration saved.
+2026-02-20 07:58:41,311 - src.config.settings - INFO - Configuration saved.
+2026-02-20 07:58:41,312 - src.config.settings - INFO - Configuration saved.
+2026-02-20 07:58:41,313 - src.config.settings - INFO - Configuration saved.
+2026-02-20 07:59:05,980 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 07:59:06,079 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 07:59:06,411 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 07:59:06,437 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 07:59:06,438 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 07:59:06,514 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 08:14:25,931 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 08:14:26,002 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 08:14:26,265 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 08:14:26,285 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 08:14:26,286 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 08:14:26,339 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 08:14:34,331 - src.soundpad.client - ERROR - Error selecting sound 3: 'SoundpadRemoteControl' object has no attribute 'DoSelectSound'
+2026-02-20 08:14:38,370 - src.soundpad.client - ERROR - Error selecting sound 3: 'SoundpadRemoteControl' object has no attribute 'DoSelectSound'
+2026-02-20 08:14:40,876 - src.gui.app - INFO - Selected sound from library: scream
+2026-02-20 08:14:42,489 - src.soundpad.client - ERROR - Error selecting sound 4: 'SoundpadRemoteControl' object has no attribute 'DoSelectSound'
+2026-02-20 08:14:43,688 - src.gui.app - INFO - Selected sound from library: cue
+2026-02-20 08:15:11,133 - src.soundpad.client - ERROR - Error selecting sound 3: 'SoundpadRemoteControl' object has no attribute 'DoSelectSound'
+2026-02-20 08:54:49,677 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 08:54:49,768 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 08:54:50,063 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 08:54:50,084 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 08:54:50,085 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 08:54:50,152 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 08:55:07,924 - src.config.settings - INFO - Configuration saved.
+2026-02-20 08:55:15,294 - src.gui.app - INFO - Selected sound from library: firework
+2026-02-20 08:55:19,085 - src.config.settings - INFO - Configuration saved.
+2026-02-20 08:57:48,354 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 08:57:48,451 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 08:57:48,754 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 08:57:48,777 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 08:57:48,777 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 08:57:48,847 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 08:57:59,842 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 08:57:59,909 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 08:58:00,083 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 08:58:00,104 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 08:58:00,107 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 08:58:00,108 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 09:02:56,709 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 09:02:56,786 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 09:02:57,034 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 09:02:57,053 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 09:02:57,054 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 09:02:57,120 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 09:03:23,164 - src.config.settings - INFO - Configuration saved.
+2026-02-20 09:03:28,460 - src.config.settings - INFO - Configuration saved.
+2026-02-20 09:13:23,139 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 09:13:23,245 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 09:13:23,508 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 09:13:23,529 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 09:13:23,530 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 09:13:23,583 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 09:14:12,982 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 09:14:13,050 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 09:14:13,282 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 09:14:13,301 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 09:14:13,303 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 09:14:13,364 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 09:22:57,552 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 09:22:57,623 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 09:22:57,843 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 09:22:57,869 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 09:22:57,874 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 09:22:57,874 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 09:25:13,981 - src.gui.app - INFO - Selected sound from library: scream
+2026-02-20 09:25:15,764 - src.gui.app - INFO - Selected sound from library: scream
+2026-02-20 09:25:20,370 - src.config.settings - INFO - Configuration saved.
+2026-02-20 09:36:55,982 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 09:36:56,086 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 09:36:56,411 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 09:36:56,433 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 09:36:56,434 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 09:36:56,493 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 09:37:17,145 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 09:37:17,209 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 09:37:17,403 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 09:37:17,424 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 09:37:17,427 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 09:37:17,427 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 09:37:45,477 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 09:37:45,543 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 09:37:45,788 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 09:37:45,809 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 09:37:45,810 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 09:37:45,872 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 09:44:18,028 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 09:44:18,112 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 09:44:18,147 - __main__ - CRITICAL - App crashed: '_tkinter.tkapp' object has no attribute 'toggle_always_on_top'
+Traceback (most recent call last):
+  File "d:\Programming\Projects\Python\MidiToPad\main.py", line 31, in <module>
+    app = App()
+  File "d:\Programming\Projects\Python\MidiToPad\src\gui\app.py", line 69, in __init__
+    command=self.toggle_always_on_top)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Cup11\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2552, in __getattr__
+    return getattr(self.tk, attr)
+AttributeError: '_tkinter.tkapp' object has no attribute 'toggle_always_on_top'
+2026-02-20 09:47:38,311 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 09:47:38,391 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 09:47:38,675 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 09:47:38,699 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 09:47:38,700 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 09:47:38,824 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 09:52:07,625 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 09:52:07,701 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 09:52:08,015 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 09:52:08,036 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 09:52:08,038 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 09:52:08,105 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 09:53:34,385 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 09:53:34,466 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 09:53:34,730 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 09:53:34,754 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 09:53:34,756 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 09:53:34,853 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 09:54:08,084 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 09:54:08,153 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 09:54:08,417 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 09:54:08,436 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 09:54:08,438 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 09:54:08,492 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 10:20:54,023 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 10:20:54,123 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 10:20:54,418 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 10:20:54,438 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 10:20:54,440 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 10:20:54,546 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 10:24:09,003 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 10:24:09,081 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 10:24:09,378 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 10:24:09,397 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 10:24:09,398 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 10:24:09,466 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 10:40:54,133 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 10:40:54,226 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 10:40:54,557 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 10:40:54,575 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 10:40:54,577 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 10:40:54,668 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 10:50:45,307 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 10:50:45,394 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 10:50:45,703 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 10:50:45,721 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 10:50:45,722 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 10:50:45,806 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 10:51:52,400 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 10:51:52,481 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 10:51:52,787 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 10:51:52,808 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 10:51:52,810 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 10:51:52,887 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 10:52:09,228 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 10:52:09,303 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 10:52:09,568 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 10:52:09,590 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 10:52:09,591 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 10:52:09,690 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 10:59:17,294 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 10:59:17,376 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 10:59:17,666 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 10:59:17,685 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 10:59:17,687 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 10:59:17,797 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 11:00:41,904 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 11:00:41,978 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 11:00:42,269 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 11:00:42,289 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 11:00:42,290 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 11:00:42,343 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 11:10:58,610 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 11:10:58,701 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 11:10:59,018 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 11:10:59,039 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 11:10:59,040 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 11:10:59,099 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 11:12:09,124 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 11:12:09,193 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 11:12:09,474 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 11:12:09,493 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 11:12:09,494 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 11:12:09,552 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 11:12:33,230 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 11:12:33,295 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 11:12:33,606 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 11:12:33,625 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 11:12:33,626 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 11:12:33,678 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 11:18:04,007 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 11:18:04,101 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 11:18:04,409 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 11:18:04,429 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 11:18:04,430 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 11:18:04,498 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 11:29:21,189 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 11:29:21,268 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 11:29:21,555 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 11:29:21,578 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 11:29:21,579 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 11:29:21,635 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 11:29:51,915 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 11:29:51,989 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 11:29:52,270 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 11:29:52,290 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 11:29:52,292 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 11:29:52,352 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 11:34:12,550 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 11:34:12,623 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 11:34:12,919 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 11:34:12,938 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 11:34:12,940 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 11:34:12,994 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 11:34:25,279 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 11:34:25,358 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 11:34:25,648 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 11:34:25,665 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 11:34:25,667 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 11:34:25,737 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 11:37:49,113 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 11:37:49,184 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 11:37:49,451 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 11:37:49,470 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 11:37:49,472 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 11:37:49,523 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 11:38:16,969 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 11:38:17,038 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 11:38:17,302 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 11:38:17,321 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 11:38:17,322 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 11:38:17,374 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 11:40:08,284 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 11:40:08,353 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 11:40:08,625 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 11:40:08,645 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 11:40:08,646 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 11:40:08,705 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 11:42:05,016 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 11:42:05,099 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 11:42:05,371 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 11:42:05,389 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 11:42:05,391 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 11:42:05,683 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 11:44:42,679 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 11:44:42,747 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 11:44:43,186 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 11:44:43,204 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 11:44:43,206 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 11:44:43,209 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 11:54:14,304 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 11:54:14,436 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 11:54:14,838 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 11:54:14,872 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 11:54:14,874 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 11:54:14,933 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 11:54:46,923 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 11:54:47,044 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 11:54:47,378 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 11:54:47,419 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 11:54:47,420 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 11:54:47,456 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 12:03:15,983 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 12:03:16,166 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 12:03:16,584 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 12:03:16,614 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 12:03:16,617 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 12:03:16,785 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 12:08:37,019 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 12:08:37,165 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 12:08:37,609 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 12:08:37,641 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 12:08:37,644 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 12:08:37,705 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 12:09:24,001 - src.gui.app - INFO - Selected sound from library: white_noise
+2026-02-20 12:09:24,901 - src.gui.app - INFO - Trying to match library sound 'white_noise' against 5 API sounds.
+2026-02-20 12:09:24,902 - src.config.settings - INFO - Configuration saved.
+2026-02-20 12:09:30,135 - src.config.settings - INFO - Configuration saved.
+2026-02-20 13:42:29,413 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 13:42:30,061 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 13:42:30,598 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 13:42:30,730 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 13:42:30,732 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 13:42:30,792 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 13:50:26,018 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 13:50:26,188 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 13:50:26,676 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 13:50:26,694 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 13:50:26,695 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 13:50:26,757 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 14:14:18,004 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 14:14:18,167 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 14:14:19,006 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 14:14:19,044 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 14:14:19,044 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 14:14:19,048 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 14:17:59,790 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 14:17:59,928 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 14:18:00,611 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 14:18:00,654 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 14:18:00,656 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 14:18:00,735 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 14:20:43,652 - src.config.settings - INFO - Configuration saved.
+2026-02-20 14:20:43,654 - src.config.settings - INFO - Configuration saved.
+2026-02-20 14:20:43,675 - src.config.settings - INFO - Configuration saved.
+2026-02-20 14:35:23,408 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 14:35:23,557 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 14:35:24,289 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 14:35:24,321 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 14:35:24,323 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 14:35:24,404 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 14:36:16,822 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 14:36:16,977 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 14:36:17,679 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 14:36:17,718 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 14:36:17,718 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 14:36:17,724 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 15:00:31,559 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 15:00:31,684 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 15:00:32,466 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 15:00:32,510 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 15:00:32,514 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 15:00:32,593 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 15:02:18,555 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 15:02:18,668 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 15:02:19,329 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 15:02:19,355 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 15:02:19,357 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 15:02:19,398 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 15:02:26,866 - src.midi.manager - INFO - Opened MIDI port: SMK25 0
+2026-02-20 15:02:26,867 - src.config.settings - INFO - Configuration saved.
+2026-02-20 15:02:32,702 - src.midi.manager - INFO - Closed MIDI port.
+2026-02-20 15:02:32,704 - src.midi.manager - INFO - Opened MIDI port: MIDIIN2 (SMK25) 1
+2026-02-20 15:02:32,704 - src.config.settings - INFO - Configuration saved.
+2026-02-20 15:02:35,762 - src.midi.manager - INFO - Closed MIDI port.
+2026-02-20 15:02:35,763 - src.midi.manager - INFO - Opened MIDI port: SMK25 0
+2026-02-20 15:02:35,764 - src.config.settings - INFO - Configuration saved.
+2026-02-20 15:02:47,189 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 15:02:47,316 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 15:02:48,019 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 15:02:48,055 - src.midi.manager - INFO - Opened MIDI port: SMK25 0
+2026-02-20 15:02:48,061 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 15:02:48,063 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 15:02:48,166 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 15:02:49,705 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 15:02:51,385 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 15:02:53,254 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 15:02:55,045 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 15:02:59,015 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 15:03:00,315 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 15:03:01,757 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 15:03:02,608 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 15:03:05,396 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 15:03:07,116 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 15:03:22,794 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 15:03:22,912 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 15:03:23,577 - src.soundpad.client - WARNING - Soundpad is not running or not reachable.
+2026-02-20 15:03:23,616 - src.midi.manager - INFO - Opened MIDI port: SMK25 0
+2026-02-20 15:03:23,618 - src.soundpad.client - WARNING - Soundpad is not running or not reachable.
+2026-02-20 15:03:45,426 - src.config.settings - INFO - Configuration saved.
+2026-02-20 15:03:51,396 - src.config.settings - INFO - Configuration saved.
+2026-02-20 15:11:56,329 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 15:11:56,465 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 15:11:57,138 - src.soundpad.client - WARNING - Soundpad is not running or not reachable.
+2026-02-20 15:11:57,170 - src.midi.manager - ERROR - Error opening MIDI port SMK25 0: MidiInWinMM::openPort: error creating Windows MM MIDI input port.
+2026-02-20 15:11:57,175 - src.soundpad.client - WARNING - Soundpad is not running or not reachable.
+2026-02-20 15:12:27,615 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 15:12:28,154 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 15:12:29,094 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 15:12:37,976 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 15:12:38,123 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 15:12:38,981 - src.soundpad.client - WARNING - Soundpad is not running or not reachable.
+2026-02-20 15:12:38,982 - src.gui.app - INFO - Attempting to auto-start Soundpad from: D:/Games/steamapps/common/Soundpad/Soundpad.exe
+2026-02-20 15:12:39,025 - src.midi.manager - ERROR - Error opening MIDI port SMK25 0: MidiInWinMM::openPort: error creating Windows MM MIDI input port.
+2026-02-20 15:12:39,027 - src.soundpad.client - WARNING - Soundpad is not running or not reachable.
+2026-02-20 15:12:39,027 - src.gui.app - INFO - Attempting to auto-start Soundpad from: D:/Games/steamapps/common/Soundpad/Soundpad.exe
+2026-02-20 15:12:40,942 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 15:12:41,173 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 15:12:41,372 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 15:12:41,553 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 15:12:41,763 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 15:12:41,952 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 15:12:42,173 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 15:12:43,112 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 15:12:44,249 - src.soundpad.client - WARNING - Soundpad is not running or not reachable.
+2026-02-20 15:12:44,252 - src.soundpad.client - WARNING - Soundpad is not running or not reachable.
+2026-02-20 15:13:19,134 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 15:13:23,020 - src.midi.manager - ERROR - Error opening MIDI port SMK25 0: MidiInWinMM::openPort: error creating Windows MM MIDI input port.
+2026-02-20 15:13:23,022 - src.config.settings - INFO - Configuration saved.
+2026-02-20 15:13:25,158 - src.midi.manager - INFO - Opened MIDI port: MIDIIN2 (SMK25) 1
+2026-02-20 15:13:25,159 - src.config.settings - INFO - Configuration saved.
+2026-02-20 15:13:26,102 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 15:13:26,102 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 15:13:26,653 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 15:13:26,654 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 15:13:27,435 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 15:13:27,435 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 15:13:28,326 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 15:13:28,327 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 15:13:29,002 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 15:13:29,003 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 15:13:29,485 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 15:13:29,487 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 15:13:29,985 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 15:13:29,986 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 15:14:52,921 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 15:14:53,051 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 15:14:53,253 - src.gui.app - INFO - Playing sound index 2 for note 52
+2026-02-20 15:14:53,690 - src.soundpad.client - WARNING - Soundpad is not running or not reachable.
+2026-02-20 15:14:53,690 - src.gui.app - INFO - Attempting to auto-start Soundpad from: D:/Games/steamapps/common/Soundpad/Soundpad.exe
+2026-02-20 15:14:53,739 - src.midi.manager - INFO - Opened MIDI port: MIDIIN2 (SMK25) 1
+2026-02-20 15:14:53,740 - src.soundpad.client - WARNING - Soundpad is not running or not reachable.
+2026-02-20 15:14:53,740 - src.gui.app - INFO - Attempting to auto-start Soundpad from: D:/Games/steamapps/common/Soundpad/Soundpad.exe
+2026-02-20 15:14:54,541 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 15:14:54,542 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 15:14:55,031 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 15:14:55,032 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 15:14:58,768 - src.soundpad.client - WARNING - Soundpad is not running or not reachable.
+2026-02-20 15:14:58,768 - src.soundpad.client - WARNING - Soundpad is not running or not reachable.
+2026-02-20 15:16:27,743 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 15:16:27,817 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 15:16:28,302 - src.soundpad.client - WARNING - Soundpad is not running or not reachable.
+2026-02-20 15:16:28,302 - src.gui.app - INFO - Attempting to auto-start Soundpad from: D:/Games/steamapps/common/Soundpad/Soundpad.exe
+2026-02-20 15:16:28,335 - src.midi.manager - ERROR - Error opening MIDI port MIDIIN2 (SMK25) 1: MidiInWinMM::openPort: error creating Windows MM MIDI input port.
+2026-02-20 15:16:28,336 - src.soundpad.client - WARNING - Soundpad is not running or not reachable.
+2026-02-20 15:16:28,336 - src.gui.app - INFO - Attempting to auto-start Soundpad from: D:/Games/steamapps/common/Soundpad/Soundpad.exe
+2026-02-20 15:16:33,362 - src.soundpad.client - WARNING - Soundpad is not running or not reachable.
+2026-02-20 15:16:33,362 - src.soundpad.client - WARNING - Soundpad is not running or not reachable.
+2026-02-20 15:16:33,610 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 15:16:33,980 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 15:16:34,220 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 15:16:34,470 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 15:16:34,470 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 15:16:34,720 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 15:16:34,720 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 15:16:36,611 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 15:16:36,611 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 15:16:36,681 - src.midi.manager - INFO - Opened MIDI port: MIDIIN3 (SMK25) 2
+2026-02-20 15:16:36,682 - src.config.settings - INFO - Configuration saved.
+2026-02-20 15:16:36,910 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 15:16:37,120 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 15:16:37,121 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 15:16:38,819 - src.midi.manager - INFO - Closed MIDI port.
+2026-02-20 15:16:38,820 - src.midi.manager - ERROR - Error opening MIDI port SMK25 0: MidiInWinMM::openPort: error creating Windows MM MIDI input port.
+2026-02-20 15:16:38,820 - src.config.settings - INFO - Configuration saved.
+2026-02-20 15:16:39,080 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 15:16:39,270 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 15:16:39,270 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 15:16:39,470 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 15:16:39,470 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 15:16:42,579 - src.midi.manager - ERROR - Error opening MIDI port MIDIIN2 (SMK25) 1: MidiInWinMM::openPort: error creating Windows MM MIDI input port.
+2026-02-20 15:16:42,580 - src.config.settings - INFO - Configuration saved.
+2026-02-20 15:16:42,861 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 15:16:42,861 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 15:16:43,050 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 15:16:43,050 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 15:19:27,998 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 15:19:28,106 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 15:19:28,544 - src.soundpad.client - WARNING - Soundpad is not running or not reachable.
+2026-02-20 15:19:28,544 - src.gui.app - INFO - Attempting to auto-start Soundpad from: D:/Games/steamapps/common/Soundpad/Soundpad.exe
+2026-02-20 15:19:28,565 - src.midi.manager - ERROR - Error opening MIDI port MIDIIN2 (SMK25) 1: MidiInWinMM::openPort: error creating Windows MM MIDI input port.
+2026-02-20 15:19:28,566 - src.soundpad.client - WARNING - Soundpad is not running or not reachable.
+2026-02-20 15:19:28,567 - src.gui.app - INFO - Attempting to auto-start Soundpad from: D:/Games/steamapps/common/Soundpad/Soundpad.exe
+2026-02-20 15:19:33,594 - src.soundpad.client - WARNING - Soundpad is not running or not reachable.
+2026-02-20 15:19:33,594 - src.soundpad.client - WARNING - Soundpad is not running or not reachable.
+2026-02-20 15:19:41,180 - src.config.settings - INFO - Configuration saved.
+2026-02-20 15:19:41,181 - src.config.settings - INFO - Configuration saved.
+2026-02-20 15:19:41,182 - src.config.settings - INFO - Configuration saved.
+2026-02-20 15:19:41,182 - src.config.settings - INFO - Configuration saved.
+2026-02-20 15:19:42,751 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 15:19:43,551 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 15:19:45,769 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 15:19:45,769 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 15:19:45,830 - src.midi.manager - ERROR - Error opening MIDI port SMK25 0: MidiInWinMM::openPort: error creating Windows MM MIDI input port.
+2026-02-20 15:19:45,831 - src.config.settings - INFO - Configuration saved.
+2026-02-20 15:19:46,019 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 15:19:46,019 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 15:19:46,208 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 15:19:46,209 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 15:19:46,669 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 15:19:46,669 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 15:19:48,372 - src.midi.manager - INFO - Opened MIDI port: MIDIIN3 (SMK25) 2
+2026-02-20 15:19:48,373 - src.config.settings - INFO - Configuration saved.
+2026-02-20 15:19:48,429 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 15:19:48,429 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 15:19:48,899 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 15:19:48,899 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 15:19:49,169 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 15:19:49,170 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 15:19:49,439 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 15:19:49,440 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 15:19:49,699 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 15:19:49,699 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 15:19:49,879 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 15:20:31,114 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 15:20:31,216 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 15:20:31,672 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 15:20:31,697 - src.midi.manager - INFO - Opened MIDI port: MIDIIN3 (SMK25) 2
+2026-02-20 15:20:31,699 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 15:20:31,700 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 15:20:31,810 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 15:20:37,048 - src.midi.manager - INFO - Closed MIDI port.
+2026-02-20 15:20:37,049 - src.midi.manager - INFO - Opened MIDI port: SMK25 0
+2026-02-20 15:20:37,050 - src.config.settings - INFO - Configuration saved.
+2026-02-20 15:20:37,669 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 15:20:37,969 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 15:20:38,589 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 15:20:39,341 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 15:20:39,900 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 15:20:40,672 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 15:20:41,399 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 15:20:41,831 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 15:20:42,819 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 15:20:43,721 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 15:20:44,530 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 15:20:46,531 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 15:20:48,270 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 15:20:49,650 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 15:29:58,406 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 15:34:41,996 - src.config.settings - INFO - Configuration saved.
+2026-02-20 15:34:49,547 - src.config.settings - INFO - Configuration saved.
+2026-02-20 15:35:08,291 - src.config.settings - INFO - Configuration saved.
+2026-02-20 15:36:04,406 - src.config.settings - INFO - Configuration saved.
+2026-02-20 15:36:07,504 - src.config.settings - INFO - Configuration saved.
+2026-02-20 15:36:15,882 - src.config.settings - INFO - Configuration saved.
+2026-02-20 15:36:19,205 - src.config.settings - INFO - Configuration saved.
+2026-02-20 15:36:23,306 - src.config.settings - INFO - Configuration saved.
+2026-02-20 15:36:25,512 - src.config.settings - INFO - Configuration saved.
+2026-02-20 15:36:27,306 - src.config.settings - INFO - Configuration saved.
+2026-02-20 15:37:17,315 - src.config.settings - INFO - Configuration saved.
+2026-02-20 15:37:17,316 - src.config.settings - INFO - Configuration saved.
+2026-02-20 15:37:17,316 - src.config.settings - INFO - Configuration saved.
+2026-02-20 15:37:17,317 - src.config.settings - INFO - Configuration saved.
+2026-02-20 15:39:43,053 - src.config.settings - INFO - Configuration saved.
+2026-02-20 15:40:09,246 - src.config.settings - INFO - Configuration saved.
+2026-02-20 15:40:11,573 - src.config.settings - INFO - Configuration saved.
+2026-02-20 15:41:40,510 - src.config.settings - INFO - Configuration saved.
+2026-02-20 15:41:40,511 - src.config.settings - INFO - Configuration saved.
+2026-02-20 15:41:40,512 - src.config.settings - INFO - Configuration saved.
+2026-02-20 15:41:40,513 - src.config.settings - INFO - Configuration saved.
+2026-02-20 15:43:44,732 - src.gui.app - INFO - Playing sound index -1 for note 60
+2026-02-20 15:43:45,003 - src.gui.app - INFO - Playing sound index -1 for note 60
+2026-02-20 15:43:45,925 - src.gui.app - INFO - Playing sound index -1 for note 60
+2026-02-20 15:43:46,673 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 15:43:47,283 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 15:43:47,833 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 15:43:48,393 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 15:43:49,074 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 15:43:49,434 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 15:43:49,664 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 15:43:50,034 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 15:43:50,182 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 15:43:50,284 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 15:43:50,473 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 15:43:50,563 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 15:43:50,732 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 15:43:51,014 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 17:19:01,785 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 17:19:01,876 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 17:19:02,362 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 17:19:02,380 - src.midi.manager - ERROR - Error opening MIDI port SMK25 0: MidiInWinMM::openPort: error creating Windows MM MIDI input port.
+2026-02-20 17:19:02,382 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 17:19:02,385 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 17:19:02,491 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 17:19:27,427 - src.gui.app - INFO - Playing sound index 2 for note 52
+2026-02-20 17:19:27,795 - src.gui.app - INFO - Playing sound index 2 for note 52
+2026-02-20 17:19:28,746 - src.gui.app - INFO - Playing sound index 2 for note 52
+2026-02-20 17:19:31,827 - src.gui.app - INFO - Playing sound index -1 for note 60
+2026-02-20 17:19:32,597 - src.gui.app - INFO - Playing sound index 2 for note 52
+2026-02-20 17:19:44,322 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 17:19:44,397 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 17:19:44,804 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 17:19:44,822 - src.midi.manager - INFO - Opened MIDI port: SMK25 0
+2026-02-20 17:19:44,823 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 17:19:44,825 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 17:19:44,912 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 17:19:47,416 - src.gui.app - INFO - Playing sound index 2 for note 52
+2026-02-20 17:19:59,266 - src.gui.app - INFO - Playing sound index 4 for note 63
+2026-02-20 17:19:59,585 - src.gui.app - INFO - Playing sound index 4 for note 63
+2026-02-20 17:20:58,314 - src.gui.app - INFO - Playing sound index 2 for note 52
+2026-02-20 17:20:58,593 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 17:21:01,685 - src.gui.app - INFO - Playing sound index 2 for note 48
+2026-02-20 17:21:03,216 - src.gui.app - INFO - Playing sound index 2 for note 45
+2026-02-20 17:21:03,218 - src.gui.app - INFO - Playing sound index 2 for note 48
+2026-02-20 17:22:35,862 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 17:22:36,362 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 17:22:36,902 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 17:22:37,413 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 17:22:41,654 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 17:22:43,843 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 17:22:56,132 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 17:22:56,206 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 17:22:56,615 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 17:22:56,636 - src.midi.manager - INFO - Opened MIDI port: SMK25 0
+2026-02-20 17:22:56,637 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 17:22:56,640 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 17:22:56,733 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 17:22:57,002 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 17:22:57,633 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 17:22:58,033 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 17:22:58,303 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 17:23:01,752 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 17:23:02,922 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 17:23:03,753 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 17:23:04,374 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 17:23:05,042 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 17:23:05,634 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 17:23:06,409 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 17:23:08,813 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 17:23:10,994 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 17:23:12,523 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 17:23:13,504 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 17:23:14,464 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 17:23:15,414 - src.gui.app - INFO - Playing sound index 4 for note 63
+2026-02-20 17:23:16,484 - src.gui.app - INFO - Playing sound index 4 for note 63
+2026-02-20 17:23:17,103 - src.gui.app - INFO - Playing sound index 4 for note 63
+2026-02-20 17:23:17,564 - src.gui.app - INFO - Playing sound index 4 for note 63
+2026-02-20 17:23:18,144 - src.gui.app - INFO - Playing sound index 4 for note 63
+2026-02-20 17:23:18,683 - src.gui.app - INFO - Playing sound index 4 for note 63
+2026-02-20 17:23:18,987 - src.gui.app - INFO - Playing sound index 4 for note 63
+2026-02-20 17:23:19,313 - src.gui.app - INFO - Playing sound index 4 for note 63
+2026-02-20 17:23:19,902 - src.gui.app - INFO - Playing sound index 4 for note 63
+2026-02-20 17:23:20,517 - src.gui.app - INFO - Playing sound index 4 for note 63
+2026-02-20 17:23:44,094 - src.config.settings - INFO - Configuration saved.
+2026-02-20 17:23:46,693 - src.config.settings - INFO - Configuration saved.
+2026-02-20 17:23:54,607 - src.config.settings - INFO - Configuration saved.
+2026-02-20 17:23:54,607 - src.config.settings - INFO - Configuration saved.
+2026-02-20 17:23:54,608 - src.config.settings - INFO - Configuration saved.
+2026-02-20 17:23:54,608 - src.config.settings - INFO - Configuration saved.
+2026-02-20 17:24:10,671 - src.config.settings - INFO - Configuration saved.
+2026-02-20 17:24:12,201 - src.config.settings - INFO - Configuration saved.
+2026-02-20 17:24:13,482 - src.config.settings - INFO - Configuration saved.
+2026-02-20 17:24:13,483 - src.config.settings - INFO - Configuration saved.
+2026-02-20 17:24:13,484 - src.config.settings - INFO - Configuration saved.
+2026-02-20 17:24:13,485 - src.config.settings - INFO - Configuration saved.
+2026-02-20 17:24:18,253 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 17:24:19,043 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 17:24:19,763 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 17:24:20,312 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 17:24:20,813 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 17:24:21,473 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 17:24:22,242 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 17:24:23,203 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 17:24:23,692 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 17:24:24,482 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 17:24:27,593 - src.gui.app - INFO - Playing sound index -1 for note 60
+2026-02-20 17:24:27,955 - src.gui.app - INFO - Playing sound index -1 for note 60
+2026-02-20 17:24:28,205 - src.gui.app - INFO - Playing sound index -1 for note 60
+2026-02-20 17:24:28,403 - src.gui.app - INFO - Playing sound index -1 for note 60
+2026-02-20 17:24:28,774 - src.gui.app - INFO - Playing sound index -1 for note 60
+2026-02-20 17:24:29,314 - src.gui.app - INFO - Playing sound index -1 for note 60
+2026-02-20 17:24:30,436 - src.gui.app - INFO - Playing sound index -1 for note 60
+2026-02-20 17:24:31,133 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 17:24:31,452 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 17:24:35,732 - src.gui.app - INFO - Playing sound index -1 for note 60
+2026-02-20 17:24:36,112 - src.gui.app - INFO - Playing sound index -1 for note 60
+2026-02-20 17:24:36,512 - src.gui.app - INFO - Playing sound index -1 for note 60
+2026-02-20 17:24:36,822 - src.gui.app - INFO - Playing sound index -1 for note 60
+2026-02-20 17:24:38,882 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 17:24:39,122 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 17:24:39,611 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 17:24:40,343 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 17:24:40,581 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 17:24:40,791 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 17:24:59,851 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 17:25:00,832 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 17:25:01,191 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 17:25:01,472 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 17:25:01,862 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 17:25:02,272 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 17:25:03,062 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 17:25:03,641 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 17:25:03,941 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 17:25:04,191 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 17:26:01,792 - src.config.settings - INFO - Configuration saved.
+2026-02-20 17:26:04,452 - src.config.settings - INFO - Configuration saved.
+2026-02-20 17:26:05,954 - src.config.settings - INFO - Configuration saved.
+2026-02-20 17:26:05,954 - src.config.settings - INFO - Configuration saved.
+2026-02-20 17:26:05,955 - src.config.settings - INFO - Configuration saved.
+2026-02-20 17:26:05,956 - src.config.settings - INFO - Configuration saved.
+2026-02-20 17:26:54,381 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 17:26:54,931 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 17:26:55,321 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 17:26:56,002 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 17:26:56,719 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 17:26:57,850 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 17:27:54,106 - src.config.settings - INFO - Configuration saved.
+2026-02-20 17:27:54,107 - src.config.settings - INFO - Configuration saved.
+2026-02-20 17:27:54,107 - src.config.settings - INFO - Configuration saved.
+2026-02-20 17:27:54,108 - src.config.settings - INFO - Configuration saved.
+2026-02-20 17:28:56,466 - src.config.settings - INFO - Configuration saved.
+2026-02-20 17:28:56,466 - src.config.settings - INFO - Configuration saved.
+2026-02-20 17:28:56,467 - src.config.settings - INFO - Configuration saved.
+2026-02-20 17:28:56,479 - src.config.settings - INFO - Configuration saved.
+2026-02-20 17:33:43,132 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 17:33:43,209 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 17:33:43,642 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 17:33:43,667 - src.midi.manager - INFO - Opened MIDI port: SMK25 0
+2026-02-20 17:33:43,669 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 17:33:43,672 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 17:33:43,805 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 17:33:58,816 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 17:38:42,515 - src.midi.manager - INFO - Closed MIDI port.
+2026-02-20 17:38:42,516 - src.midi.manager - INFO - Opened MIDI port: SMK25 0
+2026-02-20 17:38:42,517 - src.config.settings - INFO - Configuration saved.
+2026-02-20 17:38:43,393 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 17:38:43,853 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 17:38:44,433 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 17:38:45,243 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 17:38:47,534 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 17:38:48,133 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 17:38:48,574 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 17:45:19,799 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 17:45:19,899 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 17:45:20,306 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 17:45:20,325 - src.midi.manager - INFO - Opened MIDI port: SMK25 0
+2026-02-20 17:45:20,326 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 17:45:20,329 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 17:45:20,454 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 17:45:48,841 - src.config.settings - INFO - Configuration saved.
+2026-02-20 17:45:58,169 - src.config.settings - INFO - Configuration saved.
+2026-02-20 17:45:59,280 - src.config.settings - INFO - Configuration saved.
+2026-02-20 17:46:01,435 - src.config.settings - INFO - Configuration saved.
+2026-02-20 17:46:01,436 - src.config.settings - INFO - Configuration saved.
+2026-02-20 17:46:01,437 - src.config.settings - INFO - Configuration saved.
+2026-02-20 17:46:01,437 - src.config.settings - INFO - Configuration saved.
+2026-02-20 17:46:15,331 - src.config.settings - INFO - Configuration saved.
+2026-02-20 17:46:16,868 - src.config.settings - INFO - Configuration saved.
+2026-02-20 17:46:18,507 - src.config.settings - INFO - Configuration saved.
+2026-02-20 17:46:18,507 - src.config.settings - INFO - Configuration saved.
+2026-02-20 17:46:18,508 - src.config.settings - INFO - Configuration saved.
+2026-02-20 17:46:18,508 - src.config.settings - INFO - Configuration saved.
+2026-02-20 17:48:51,282 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 17:48:51,378 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 17:48:51,815 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 17:48:51,835 - src.midi.manager - INFO - Opened MIDI port: SMK25 0
+2026-02-20 17:48:51,837 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 17:48:51,839 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 17:48:51,945 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 17:59:27,814 - src.gui.app - INFO - Playing sound index -1 for note 60
+2026-02-20 18:46:25,172 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 18:46:25,261 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 18:46:25,723 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 18:46:25,742 - src.midi.manager - INFO - Opened MIDI port: SMK25 0
+2026-02-20 18:46:25,746 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 18:46:25,750 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 18:46:25,854 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 19:04:03,548 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 19:04:03,640 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 19:04:04,089 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 19:04:04,110 - src.midi.manager - INFO - Opened MIDI port: SMK25 0
+2026-02-20 19:04:04,112 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 19:04:04,114 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 19:04:04,236 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 19:04:49,576 - src.config.settings - INFO - Configuration saved.
+2026-02-20 19:04:57,422 - src.config.settings - INFO - Configuration saved.
+2026-02-20 19:05:56,776 - src.config.settings - INFO - Configuration saved.
+2026-02-20 19:05:58,725 - src.config.settings - INFO - Configuration saved.
+2026-02-20 19:06:01,679 - src.config.settings - INFO - Configuration saved.
+2026-02-20 19:06:01,679 - src.config.settings - INFO - Configuration saved.
+2026-02-20 19:06:01,680 - src.config.settings - INFO - Configuration saved.
+2026-02-20 19:06:01,680 - src.config.settings - INFO - Configuration saved.
+2026-02-20 19:06:12,336 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 19:06:13,695 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 19:06:15,245 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 19:06:15,857 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 19:06:17,407 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 19:06:19,075 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 19:06:22,436 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 19:06:25,223 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 19:06:32,195 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 19:06:44,194 - src.gui.app - INFO - Selected sound from library: firework
+2026-02-20 19:06:48,946 - src.gui.app - INFO - Selected sound from library: scream
+2026-02-20 19:06:49,994 - src.config.settings - INFO - Configuration saved.
+2026-02-20 19:06:49,996 - src.gui.app - INFO - Quick bound Note 56 to scream
+2026-02-20 19:06:53,844 - src.gui.app - INFO - Playing sound index 4 for note 56
+2026-02-20 19:06:55,424 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 19:06:56,125 - src.gui.app - INFO - Playing sound index 4 for note 56
+2026-02-20 19:16:09,023 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 19:16:09,122 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 19:16:09,601 - src.soundpad.client - WARNING - Soundpad is not running or not reachable.
+2026-02-20 19:16:09,625 - src.midi.manager - INFO - Opened MIDI port: SMK25 0
+2026-02-20 19:16:09,626 - src.soundpad.client - WARNING - Soundpad is not running or not reachable.
+2026-02-20 19:16:20,660 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 19:16:21,420 - src.gui.app - INFO - Playing sound index 4 for note 56
+2026-02-20 19:16:38,466 - src.config.settings - INFO - Configuration saved.
+2026-02-20 19:16:38,467 - src.config.settings - INFO - Configuration saved.
+2026-02-20 19:16:38,468 - src.config.settings - INFO - Configuration saved.
+2026-02-20 19:16:38,469 - src.config.settings - INFO - Configuration saved.
+2026-02-20 19:16:42,897 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 19:16:42,972 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 19:16:43,378 - src.soundpad.client - WARNING - Soundpad is not running or not reachable.
+2026-02-20 19:16:43,378 - src.gui.app - INFO - Attempting to auto-start Soundpad via Steam (steam://rungameid/629520)
+2026-02-20 19:16:43,438 - src.midi.manager - INFO - Opened MIDI port: SMK25 0
+2026-02-20 19:16:43,439 - src.soundpad.client - WARNING - Soundpad is not running or not reachable.
+2026-02-20 19:16:43,439 - src.gui.app - INFO - Attempting to auto-start Soundpad via Steam (steam://rungameid/629520)
+2026-02-20 19:16:48,460 - src.soundpad.client - WARNING - Soundpad is not running or not reachable.
+2026-02-20 19:16:48,465 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 19:16:48,471 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 19:48:27,289 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 19:48:27,374 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 19:48:27,886 - src.soundpad.client - WARNING - Soundpad is not running or not reachable.
+2026-02-20 19:48:27,886 - src.gui.app - INFO - Attempting to auto-start Soundpad via Steam (steam://rungameid/629520)
+2026-02-20 19:48:27,910 - src.midi.manager - INFO - Opened MIDI port: SMK25 0
+2026-02-20 19:48:27,911 - src.soundpad.client - WARNING - Soundpad is not running or not reachable.
+2026-02-20 19:48:27,911 - src.gui.app - INFO - Attempting to auto-start Soundpad via Steam (steam://rungameid/629520)
+2026-02-20 19:48:30,869 - src.gui.app - INFO - Selected sound from library: ba dum tss
+2026-02-20 19:48:32,936 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 19:48:48,952 - src.gui.app - INFO - Playing sound index -1 for note 60
+2026-02-20 19:49:02,467 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 19:49:03,176 - src.gui.app - INFO - Playing sound index 4 for note 56
+2026-02-20 19:49:03,796 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 19:49:13,126 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 19:49:13,527 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 19:49:13,796 - src.gui.app - INFO - Playing sound index 4 for note 56
+2026-02-20 19:49:14,148 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 19:49:14,819 - src.gui.app - INFO - Playing sound index 2 for note 52
+2026-02-20 19:49:15,277 - src.gui.app - INFO - Playing sound index 2 for note 52
+2026-02-20 19:49:15,678 - src.gui.app - INFO - Playing sound index 2 for note 52
+2026-02-20 19:49:21,947 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 19:49:24,958 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 19:49:25,848 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 19:49:26,468 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 19:49:26,819 - src.gui.app - INFO - Playing sound index 4 for note 56
+2026-02-20 19:49:27,176 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 19:49:27,478 - src.gui.app - INFO - Playing sound index 4 for note 56
+2026-02-20 19:49:27,685 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 19:49:27,906 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 19:49:33,136 - src.gui.app - INFO - Playing sound index 4 for note 56
+2026-02-20 19:49:33,556 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 19:49:33,886 - src.gui.app - INFO - Playing sound index 4 for note 56
+2026-02-20 19:49:34,146 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 19:49:50,526 - src.gui.app - INFO - Selected sound from library: ba dum tss
+2026-02-20 19:49:52,851 - src.gui.app - INFO - Trying to match library sound 'ba dum tss' against 0 API sounds.
+2026-02-20 19:50:11,241 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 19:50:11,323 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 19:50:11,714 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 19:50:11,734 - src.midi.manager - INFO - Opened MIDI port: SMK25 0
+2026-02-20 19:50:11,735 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 19:50:11,737 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 19:50:11,826 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 19:50:16,816 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 19:50:17,196 - src.gui.app - INFO - Playing sound index 4 for note 56
+2026-02-20 19:50:20,686 - src.gui.app - INFO - Playing sound index -1 for note 60
+2026-02-20 19:50:20,946 - src.gui.app - INFO - Playing sound index -1 for note 60
+2026-02-20 19:50:21,246 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 19:50:21,746 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 19:50:22,345 - src.gui.app - INFO - Playing sound index 4 for note 56
+2026-02-20 19:50:22,960 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 19:50:24,595 - src.gui.app - INFO - Playing sound index 4 for note 56
+2026-02-20 19:50:38,293 - src.gui.app - INFO - Selected sound from library: scream
+2026-02-20 19:50:49,088 - src.config.settings - INFO - Configuration saved.
+2026-02-20 19:50:57,621 - src.soundpad.client - ERROR - Error selecting sound 4: 'SoundpadRemoteControl' object has no attribute 'DoSelectSound'
+2026-02-20 19:51:01,646 - src.gui.app - INFO - Selected sound from library: cue
+2026-02-20 19:51:03,345 - src.soundpad.client - ERROR - Error selecting sound 3: 'SoundpadRemoteControl' object has no attribute 'DoSelectSound'
+2026-02-20 19:51:16,616 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 19:51:22,148 - src.gui.app - INFO - Playing sound index 4 for note 56
+2026-02-20 19:51:22,607 - src.gui.app - INFO - Playing sound index 4 for note 56
+2026-02-20 19:51:23,566 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 19:52:47,045 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 19:52:47,827 - src.gui.app - INFO - Playing sound index 4 for note 56
+2026-02-20 19:52:50,946 - src.gui.app - INFO - Playing sound index 2 for note 48
+2026-02-20 19:52:52,577 - src.gui.app - INFO - Playing sound index 2 for note 52
+2026-02-20 19:52:56,638 - src.gui.app - INFO - Playing sound index -1 for note 60
+2026-02-20 19:52:56,906 - src.gui.app - INFO - Playing sound index -1 for note 60
+2026-02-20 19:52:57,127 - src.gui.app - INFO - Playing sound index -1 for note 60
+2026-02-20 19:52:58,499 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 19:52:58,926 - src.gui.app - INFO - Playing sound index 4 for note 56
+2026-02-20 19:52:59,226 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 19:52:59,807 - src.gui.app - INFO - Playing sound index 4 for note 56
+2026-02-20 19:53:00,385 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 19:53:03,568 - src.gui.app - INFO - Playing sound index 2 for note 52
+2026-02-20 19:53:04,427 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 19:53:10,490 - src.config.settings - INFO - Configuration saved.
+2026-02-20 19:53:12,040 - src.gui.app - INFO - Selected sound from library: scream
+2026-02-20 19:53:14,044 - src.gui.app - INFO - Selected sound from library: firework
+2026-02-20 19:53:15,062 - src.gui.app - INFO - Selected sound from library: cue
+2026-02-20 19:53:15,921 - src.gui.app - INFO - Selected sound from library: scream
+2026-02-20 19:53:19,976 - src.gui.app - INFO - Selected sound from library: scream
+2026-02-20 19:53:21,346 - src.gui.app - INFO - Trying to match library sound 'scream' against 5 API sounds.
+2026-02-20 19:53:21,346 - src.config.settings - INFO - Configuration saved.
+2026-02-20 19:53:27,614 - src.gui.app - INFO - Selected sound from library: firework
+2026-02-20 19:53:33,485 - src.config.settings - INFO - Configuration saved.
+2026-02-20 19:53:36,646 - src.gui.app - INFO - Playing sound index -1 for note 60
+2026-02-20 19:53:37,045 - src.gui.app - INFO - Playing sound index -1 for note 60
+2026-02-20 19:53:37,826 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 19:53:42,132 - src.gui.app - INFO - Selected sound from library: ba dum tss
+2026-02-20 19:53:45,633 - src.config.settings - INFO - Configuration saved.
+2026-02-20 19:53:46,715 - src.gui.app - INFO - Playing sound index 1 for note 65
+2026-02-20 19:53:47,035 - src.gui.app - INFO - Playing sound index 1 for note 65
+2026-02-20 19:54:02,744 - src.gui.app - INFO - Playing sound index 2 for note 48
+2026-02-20 19:54:03,745 - src.gui.app - INFO - Playing sound index 2 for note 52
+2026-02-20 19:54:04,606 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 19:54:06,165 - src.gui.app - INFO - Playing sound index 4 for note 56
+2026-02-20 19:54:10,245 - src.gui.app - INFO - Playing sound index 1 for note 65
+2026-02-20 19:54:17,049 - src.config.settings - INFO - Configuration saved.
+2026-02-20 19:54:26,112 - src.config.settings - INFO - Configuration saved.
+2026-02-20 19:54:27,054 - src.gui.app - INFO - Playing sound index 2 for note 66
+2026-02-20 19:54:28,665 - src.gui.app - INFO - Playing sound index 2 for note 66
+2026-02-20 19:55:38,939 - src.config.settings - INFO - Configuration saved.
+2026-02-20 19:55:38,940 - src.config.settings - INFO - Configuration saved.
+2026-02-20 19:55:38,940 - src.config.settings - INFO - Configuration saved.
+2026-02-20 19:55:38,941 - src.config.settings - INFO - Configuration saved.
+2026-02-20 19:55:42,004 - src.gui.app - INFO - Playing sound index 2 for note 66
+2026-02-20 19:55:42,400 - src.gui.app - INFO - Playing sound index 2 for note 66
+2026-02-20 19:55:42,714 - src.gui.app - INFO - Playing sound index 1 for note 65
+2026-02-20 19:55:43,474 - src.gui.app - INFO - Playing sound index 2 for note 66
+2026-02-20 19:55:44,069 - src.gui.app - INFO - Playing sound index 1 for note 65
+2026-02-20 20:00:32,513 - src.gui.app - INFO - Playing sound index 2 for note 52
+2026-02-20 20:02:02,846 - src.gui.app - INFO - Double-click playing sound index: 1
+2026-02-20 20:02:05,909 - src.gui.app - INFO - Double-click playing sound index: 2
+2026-02-20 20:02:14,210 - src.gui.app - INFO - Double-click playing sound index: 2
+2026-02-20 20:02:18,359 - src.gui.app - INFO - Trying to match library sound 'ba dum tss' against 5 API sounds.
+2026-02-20 20:02:18,360 - src.config.settings - INFO - Configuration saved.
+2026-02-20 20:02:21,026 - src.gui.app - INFO - Trying to match library sound 'ba dum tss' against 5 API sounds.
+2026-02-20 20:02:21,027 - src.config.settings - INFO - Configuration saved.
+2026-02-20 20:02:25,523 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 20:02:26,441 - src.gui.app - INFO - Playing sound index 1 for note 51
+2026-02-20 20:02:27,101 - src.gui.app - INFO - Playing sound index 1 for note 49
+2026-02-20 20:02:28,483 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 20:02:29,061 - src.gui.app - INFO - Playing sound index 4 for note 56
+2026-02-20 20:02:30,181 - src.gui.app - INFO - Playing sound index 2 for note 66
+2026-02-20 20:02:33,674 - src.gui.app - INFO - Playing sound index -1 for note 60
+2026-02-20 20:05:33,768 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 20:05:33,882 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 20:05:34,321 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 20:05:34,339 - src.midi.manager - ERROR - Error opening MIDI port SMK25 0: MidiInWinMM::openPort: error creating Windows MM MIDI input port.
+2026-02-20 20:05:34,341 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 20:05:34,342 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 20:05:34,426 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 20:07:15,694 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 20:07:15,970 - src.gui.app - INFO - Playing sound index 4 for note 56
+2026-02-20 20:07:16,231 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 20:07:16,449 - src.gui.app - INFO - Playing sound index 4 for note 56
+2026-02-20 20:07:17,370 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 20:07:18,729 - src.gui.app - INFO - Playing sound index 4 for note 56
+2026-02-20 20:07:26,287 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 20:07:26,365 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 20:07:26,833 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 20:07:26,855 - src.midi.manager - ERROR - Error opening MIDI port SMK25 0: MidiInWinMM::openPort: error creating Windows MM MIDI input port.
+2026-02-20 20:07:26,856 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 20:07:26,859 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 20:07:26,942 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 20:07:29,110 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 20:07:29,830 - src.gui.app - INFO - Playing sound index 4 for note 56
+2026-02-20 20:07:30,510 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 20:07:31,326 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 20:07:31,716 - src.gui.app - INFO - Playing sound index 2 for note 66
+2026-02-20 20:14:21,349 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 20:14:21,427 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 20:14:21,895 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 20:14:21,913 - src.midi.manager - ERROR - Error opening MIDI port SMK25 0: MidiInWinMM::openPort: error creating Windows MM MIDI input port.
+2026-02-20 20:14:21,915 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 20:14:21,918 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 20:14:21,993 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 20:14:24,467 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 20:14:24,927 - src.gui.app - INFO - Playing sound index 4 for note 56
+2026-02-20 20:14:25,523 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 20:14:28,076 - src.gui.app - INFO - Playing sound index 4 for note 56
+2026-02-20 20:14:28,507 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 20:14:29,246 - src.gui.app - INFO - Playing sound index 4 for note 56
+2026-02-20 20:14:29,766 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 20:19:02,150 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 20:19:02,228 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 20:19:02,660 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 20:19:02,679 - src.midi.manager - ERROR - Error opening MIDI port SMK25 0: MidiInWinMM::openPort: error creating Windows MM MIDI input port.
+2026-02-20 20:19:02,681 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 20:19:02,682 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 20:19:02,759 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 20:19:33,757 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 20:19:34,156 - src.gui.app - INFO - Playing sound index 4 for note 56
+2026-02-20 20:19:34,918 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 20:19:38,936 - src.gui.app - INFO - Playing sound index 1 for note 51
+2026-02-20 20:20:33,989 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 20:20:34,067 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 20:20:34,541 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 20:20:34,565 - src.midi.manager - ERROR - Error opening MIDI port SMK25 0: MidiInWinMM::openPort: error creating Windows MM MIDI input port.
+2026-02-20 20:20:34,567 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 20:20:34,569 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 20:20:34,640 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 20:20:37,214 - src.gui.app - INFO - Playing sound index 4 for note 56
+2026-02-20 20:20:37,575 - src.gui.app - INFO - Playing sound index 4 for note 56
+2026-02-20 20:20:37,895 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 20:29:31,330 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 20:29:31,412 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 20:29:31,413 - src.config.settings - INFO - Configuration saved.
+2026-02-20 20:29:31,852 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 20:29:31,872 - src.midi.manager - ERROR - Error opening MIDI port SMK25 0: MidiInWinMM::openPort: error creating Windows MM MIDI input port.
+2026-02-20 20:29:31,874 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 20:29:31,875 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 20:29:31,955 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 20:34:23,882 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 20:34:24,350 - src.gui.app - INFO - Playing sound index 4 for note 56
+2026-02-20 20:34:30,680 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 20:34:34,113 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 20:34:34,199 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 20:34:34,625 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 20:34:34,646 - src.midi.manager - ERROR - Error opening MIDI port SMK25 0: MidiInWinMM::openPort: error creating Windows MM MIDI input port.
+2026-02-20 20:34:34,648 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 20:34:34,651 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 20:34:34,727 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 20:34:35,199 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 20:34:35,698 - src.gui.app - INFO - Playing sound index 4 for note 56
+2026-02-20 20:34:36,219 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 20:34:39,148 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 20:34:44,739 - src.gui.app - INFO - Playing sound index 1 for note 51
+2026-02-20 20:34:45,259 - src.gui.app - INFO - Playing sound index 1 for note 49
+2026-02-20 20:35:40,586 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 20:35:40,666 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 20:35:41,060 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 20:35:41,083 - src.midi.manager - INFO - Opened MIDI port: SMK25 0
+2026-02-20 20:35:41,084 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 20:35:41,086 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 20:35:41,168 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 20:35:42,749 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 20:35:43,799 - src.gui.app - INFO - Playing sound index 2 for note 61
+2026-02-20 20:35:44,488 - src.gui.app - INFO - Playing sound index 2 for note 63
+2026-02-20 20:35:45,809 - src.gui.app - INFO - Playing sound index 4 for note 56
+2026-02-20 20:35:46,078 - src.gui.app - INFO - Playing sound index 4 for note 56
+2026-02-20 20:35:46,449 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 20:35:51,918 - src.gui.app - INFO - Playing sound index 4 for note 56
+2026-02-20 20:35:52,360 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 20:35:52,828 - src.gui.app - INFO - Playing sound index 4 for note 56
+2026-02-20 20:35:53,229 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 20:35:54,559 - src.gui.app - INFO - Playing sound index 3 for note 54
+2026-02-20 20:35:55,498 - src.gui.app - INFO - Playing sound index 2 for note 61
+2026-02-20 20:35:55,989 - src.gui.app - INFO - Playing sound index 2 for note 63
+2026-02-20 20:35:58,430 - src.gui.app - INFO - Playing sound index -1 for note 60
+2026-02-20 20:36:24,637 - src.config.settings - INFO - Configuration saved.
+2026-02-20 20:36:24,638 - src.config.settings - INFO - Configuration saved.
+2026-02-20 20:36:24,638 - src.config.settings - INFO - Configuration saved.
+2026-02-20 20:36:24,656 - src.config.settings - INFO - Configuration saved.
+2026-02-20 20:57:56,963 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 20:57:57,039 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 20:57:57,482 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 20:57:57,502 - src.midi.manager - INFO - Opened MIDI port: SMK25 0
+2026-02-20 20:57:57,504 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 20:57:57,506 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 20:57:57,525 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 21:08:18,713 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 21:08:18,796 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 21:08:19,095 - __main__ - CRITICAL - App crashed: '_tkinter.tkapp' object has no attribute 'status_label'
+Traceback (most recent call last):
+  File "d:\Programming\Projects\Python\MidiToPad\main.py", line 31, in <module>
+    app = App()
+  File "d:\Programming\Projects\Python\MidiToPad\src\gui\app.py", line 120, in __init__
+    self.library = LibraryFrame(self.main_frame, self.config_manager,
+                   ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                                on_sound_selected=self.on_library_sound_selected,
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+                                on_select_soundpad=self.on_library_select_soundpad,
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                                on_api_sync_request=self.sync_library_from_api)
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\Programming\Projects\Python\MidiToPad\src\gui\library_frame.py", line 69, in __init__
+    self.refresh()
+    ~~~~~~~~~~~~^^
+  File "d:\Programming\Projects\Python\MidiToPad\src\gui\library_frame.py", line 140, in refresh
+    self.on_api_sync_request()
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "d:\Programming\Projects\Python\MidiToPad\src\gui\app.py", line 690, in sync_library_from_api
+    self.status_label.configure(text="Syncing with Soundpad...", text_color="orange")
+    ^^^^^^^^^^^^^^^^^
+  File "C:\Users\Cup11\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2552, in __getattr__
+    return getattr(self.tk, attr)
+AttributeError: '_tkinter.tkapp' object has no attribute 'status_label'
+2026-02-20 21:08:54,435 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 21:08:54,524 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 21:08:54,896 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 21:08:55,038 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 21:08:55,057 - src.midi.manager - INFO - Opened MIDI port: SMK25 0
+2026-02-20 21:08:55,061 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 21:08:55,071 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 21:08:55,072 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 21:09:54,166 - src.gui.app - INFO - Playing sound index -1 for note 60
+2026-02-20 21:09:54,887 - src.gui.app - INFO - Playing sound index 2 for note 58
+2026-02-20 21:10:02,667 - src.gui.app - INFO - Playing sound index 1 for note 51
+2026-02-20 21:10:04,466 - src.gui.app - INFO - Playing sound index 2 for note 48
+2026-02-20 21:40:20,174 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 21:40:20,264 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 21:40:20,637 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 21:40:20,790 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 21:40:20,814 - src.midi.manager - INFO - Opened MIDI port: SMK25 0
+2026-02-20 21:40:20,817 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 21:40:20,827 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 21:40:20,828 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 21:44:02,257 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 21:44:02,334 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 21:44:02,659 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 21:44:02,790 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 21:44:02,808 - src.midi.manager - INFO - Opened MIDI port: SMK25 0
+2026-02-20 21:44:02,812 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 21:44:02,821 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 21:44:02,821 - src.gui.app - INFO - Loaded 5 sounds from Soundpad.
+2026-02-20 21:47:16,458 - src.config.settings - INFO - Configuration saved.
+2026-02-20 21:47:16,459 - src.config.settings - INFO - Configuration saved.
+2026-02-20 21:47:16,459 - src.config.settings - INFO - Configuration saved.
+2026-02-20 21:47:16,460 - src.config.settings - INFO - Configuration saved.
+2026-02-20 21:49:00,413 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 21:49:00,494 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 21:49:00,876 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 21:49:01,042 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 21:49:01,067 - src.midi.manager - INFO - Opened MIDI port: SMK25 0
+2026-02-20 21:49:01,071 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 21:49:01,081 - src.gui.app - INFO - Loaded 6 sounds from Soundpad.
+2026-02-20 21:49:01,082 - src.gui.app - INFO - Loaded 6 sounds from Soundpad.
+2026-02-20 21:49:08,340 - src.gui.app - INFO - Selected sound from library: 4ertila vnature
+2026-02-20 21:49:08,562 - src.gui.app - INFO - Selected sound from library: 4ertila vnature
+2026-02-20 21:49:12,909 - src.soundpad.client - ERROR - Error selecting sound 6: 'SoundpadRemoteControl' object has no attribute 'DoSelectSound'
+2026-02-20 21:51:36,674 - __main__ - INFO - Starting MidiToPad...
+2026-02-20 21:51:36,754 - src.config.settings - INFO - Configuration loaded.
+2026-02-20 21:51:37,096 - src.soundpad.client - WARNING - Soundpad is not running or not reachable.
+2026-02-20 21:51:37,238 - src.soundpad.client - WARNING - Soundpad is not running or not reachable.
+2026-02-20 21:51:37,238 - src.gui.app - INFO - Attempting to auto-start Soundpad via Steam (steam://rungameid/629520)
+2026-02-20 21:51:37,258 - src.midi.manager - ERROR - Error opening MIDI port SMK25 0: MidiInWinMM::openPort: error creating Windows MM MIDI input port.
+2026-02-20 21:51:37,260 - src.soundpad.client - WARNING - Soundpad is not running or not reachable.
+2026-02-20 21:51:37,260 - src.gui.app - INFO - Attempting to auto-start Soundpad via Steam (steam://rungameid/629520)
+2026-02-20 21:51:42,275 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 21:51:42,281 - src.soundpad.client - INFO - Connected to Soundpad.
+2026-02-20 21:51:42,288 - src.gui.app - INFO - Loaded 6 sounds from Soundpad.
+2026-02-20 21:51:42,291 - src.gui.app - INFO - Loaded 6 sounds from Soundpad.
+2026-02-20 21:52:36,239 - src.gui.app - INFO - Selected sound from library: cue
+2026-02-20 21:52:37,153 - src.gui.app - INFO - Selected sound from library: cue
+2026-02-20 21:52:37,271 - src.gui.app - INFO - Double-click playing sound index: 3
+2026-02-20 21:52:40,106 - src.gui.app - INFO - Double-click playing sound index: 3
+2026-02-20 21:52:41,315 - src.gui.app - INFO - Selected sound from library: firework
+2026-02-20 21:53:01,697 - src.gui.app - INFO - Selected sound from library: cue
+2026-02-20 21:53:14,007 - src.config.settings - INFO - Configuration saved.
+2026-02-20 21:53:23,792 - src.midi.manager - INFO - Opened MIDI port: MIDIIN2 (SMK25) 1
+2026-02-20 21:53:23,792 - src.config.settings - INFO - Configuration saved.
+2026-02-20 21:53:24,804 - src.midi.manager - INFO - Closed MIDI port.
+2026-02-20 21:53:24,805 - src.midi.manager - INFO - Opened MIDI port: SMK25 0
+2026-02-20 21:53:24,806 - src.config.settings - INFO - Configuration saved.
+2026-02-20 21:53:25,797 - src.gui.app - INFO - Playing sound index 3 for note 57
+2026-02-20 21:53:26,791 - src.gui.app - INFO - Selected sound from library: scream
+2026-02-20 21:53:31,708 - src.config.settings - INFO - Configuration saved.
+2026-02-20 21:53:32,087 - src.gui.app - INFO - Playing sound index 4 for note 55
+2026-02-20 21:53:33,270 - src.gui.app - INFO - Selected sound from library: scream
+2026-02-20 21:53:38,598 - src.config.settings - INFO - Configuration saved.
+2026-02-20 21:53:38,606 - src.gui.app - INFO - Quick bound Note 53 to scream

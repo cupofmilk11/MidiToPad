@@ -1,0 +1,114 @@
+{
+    "midi_device": "SMK25 0",
+    "soundpad_data_folder": "C:/Users/Cup11/AppData/Roaming/Leppsoft",
+    "soundpad_exe_path": "D:/Games/steamapps/common/Soundpad/Soundpad.exe",
+    "auto_start_soundpad": true,
+    "soundpad_via_steam": true,
+    "mappings": {
+        "45": {
+            "sound_index": 2,
+            "sound_title": "firework"
+        },
+        "58": {
+            "sound_index": 2,
+            "sound_title": "firework",
+            "custom_label": null,
+            "custom_color": null
+        },
+        "60": {
+            "sound_index": -1,
+            "sound_title": "",
+            "custom_label": null,
+            "custom_color": "#fc4545"
+        },
+        "54": {
+            "sound_index": 3,
+            "sound_title": "cue",
+            "custom_label": null,
+            "custom_color": null
+        },
+        "48": {
+            "sound_index": 2,
+            "sound_title": "firework",
+            "custom_label": null,
+            "custom_color": "#ede954"
+        },
+        "52": {
+            "sound_index": 2,
+            "sound_title": "firework",
+            "custom_label": null,
+            "custom_color": null
+        },
+        "56": {
+            "sound_index": 4,
+            "sound_title": "scream",
+            "custom_label": null,
+            "custom_color": null
+        },
+        "63": {
+            "sound_index": 2,
+            "sound_title": "firework",
+            "custom_label": null,
+            "custom_color": null
+        },
+        "65": {
+            "sound_index": 1,
+            "sound_title": "ba dum tss",
+            "custom_label": null,
+            "custom_color": null
+        },
+        "61": {
+            "sound_index": 2,
+            "sound_title": "firework",
+            "custom_label": null,
+            "custom_color": null
+        },
+        "66": {
+            "sound_index": 2,
+            "sound_title": "firework",
+            "custom_label": null,
+            "custom_color": null
+        },
+        "51": {
+            "sound_index": 1,
+            "sound_title": "ba dum tss",
+            "custom_label": null,
+            "custom_color": null
+        },
+        "49": {
+            "sound_index": 1,
+            "sound_title": "ba dum tss",
+            "custom_label": null,
+            "custom_color": null
+        },
+        "57": {
+            "sound_index": 3,
+            "sound_title": "cue",
+            "custom_label": null,
+            "custom_color": null
+        },
+        "55": {
+            "sound_index": 4,
+            "sound_title": "scream",
+            "custom_label": null,
+            "custom_color": null
+        },
+        "53": {
+            "sound_index": 4,
+            "sound_title": "scream",
+            "custom_label": null,
+            "custom_color": null
+        }
+    },
+    "global_hotkeys": {
+        "play_pause": "MMC_PLAY",
+        "stop": "MMC_STOP",
+        "toggle_hold": "MMC_RECORD_STROBE",
+        "next_category": "CC_26",
+        "prev_category": "CC_22"
+    },
+    "custom_macros": {
+        "CC_23": "ctrl+shift+-",
+        "CC_27": "ctrl+shift+plus"
+    }
+}
