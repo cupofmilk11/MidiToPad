@@ -85,18 +85,18 @@ class App(ctk.CTk):
         
         # Always on Top Switch
         self.always_on_top_var = ctk.BooleanVar(value=False)
-        self.always_on_top_switch = ctk.CTkSwitch(self.sidebar_frame, text="Поверх всех", 
+        self.always_on_top_switch = ctk.CTkSwitch(self.sidebar_frame, text="Over all", 
                                                   variable=self.always_on_top_var,
                                                   command=self.toggle_always_on_top)
         self.always_on_top_switch.grid(row=5, column=0, padx=20, pady=(0, 10), sticky="s")
         
         # Pop-out Piano Button
-        self.popout_btn = ctk.CTkButton(self.sidebar_frame, text="🎹 Закрепить пианино", command=self.open_popout_piano)
+        self.popout_btn = ctk.CTkButton(self.sidebar_frame, text="🎹 fix keyboard", command=self.open_popout_piano)
         self.popout_btn.grid(row=6, column=0, padx=20, pady=(0, 10), sticky="s")
 
         # Hold to Play Switch
         self.hold_to_play_var = ctk.BooleanVar(value=False)
-        self.hold_to_play_switch = ctk.CTkSwitch(self.sidebar_frame, text="Удерживать (Hold)", 
+        self.hold_to_play_switch = ctk.CTkSwitch(self.sidebar_frame, text="To Hold", 
                                                  variable=self.hold_to_play_var)
         self.hold_to_play_switch.grid(row=7, column=0, padx=20, pady=(0, 10), sticky="s")
 

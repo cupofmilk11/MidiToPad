@@ -10,7 +10,7 @@ class SettingsWindow(ctk.CTkToplevel):
         self.on_close_callback = on_close_callback
         
         self.title("Settings")
-        self.geometry("500x550")
+        self.geometry("550x650")
         self.resizable(False, False)
         
         # Make modal
@@ -26,7 +26,7 @@ class SettingsWindow(ctk.CTkToplevel):
         self.tabview.grid(row=0, column=0, padx=10, pady=10, sticky="nsew")
         self.tabview.add("Soundpad")
         self.tabview.add("Macros")
-        self.tabview.add("Об авторе")
+        self.tabview.add("about dev")
         
         tab_sp = self.tabview.tab("Soundpad")
         tab_sp.grid_columnconfigure(1, weight=1)
@@ -34,7 +34,7 @@ class SettingsWindow(ctk.CTkToplevel):
         tab_mac = self.tabview.tab("Macros")
         tab_mac.grid_columnconfigure(0, weight=1)
         
-        tab_about = self.tabview.tab("Об авторе")
+        tab_about = self.tabview.tab("about dev")
         tab_about.grid_columnconfigure(0, weight=1)
         
         # --- Soundpad Tab ---
@@ -50,7 +50,7 @@ class SettingsWindow(ctk.CTkToplevel):
         self.browse_btn.grid(row=0, column=2, padx=(0, 20), pady=10)
         
         # Explanation
-        self.info_label = ctk.CTkLabel(tab_sp, text="Select the folder where 'soundlist.xml' or exported XML files are located.\nThe app will scan for XML files in this folder.", 
+        self.info_label = ctk.CTkLabel(tab_sp, text="Select the folder where 'soundlist.spl' or exported spl files are located.\nThe app will scan for spl files in this folder.", 
                                        text_color="gray", font=ctk.CTkFont(size=12))
         self.info_label.grid(row=1, column=0, columnspan=3, padx=20, pady=(0, 20), sticky="w")
         
@@ -80,11 +80,11 @@ class SettingsWindow(ctk.CTkToplevel):
         self.hotkeys_label.grid(row=5, column=0, columnspan=3, pady=(20, 10))
         
         self.hotkey_actions = {
-            "play_pause": "Play / Pause",
-            "next_category": "Next Category",
-            "prev_category": "Previous Category",
-            "stop": "Stop Playback",
-            "toggle_hold": "Toggle 'Hold to Play'"
+            "play_pause": "Воспроизведение / Пауза",
+            "next_category": "Следующая категория",
+            "prev_category": "Предыдущая категория",
+            "stop": "Остановить воспроизведение",
+            "toggle_hold": "Переключить 'Удерживать (Hold)'"
         }
         
         self.hotkey_vars = {}
@@ -94,7 +94,7 @@ class SettingsWindow(ctk.CTkToplevel):
             lbl.grid(row=row_idx, column=0, padx=20, pady=5, sticky="w")
             
             current_note = self.config_manager.get_global_hotkeys().get(action_name)
-            var = ctk.StringVar(value=f"Note {current_note}" if current_note is not None else "Not assigned")
+            var = ctk.StringVar(value=f"Нота {current_note}" if current_note is not None else "Не назначено")
             self.hotkey_vars[action_name] = var
             
             val_lbl = ctk.CTkLabel(tab_sp, textvariable=var, width=100)
@@ -103,7 +103,7 @@ class SettingsWindow(ctk.CTkToplevel):
             btn_frame = ctk.CTkFrame(tab_sp, fg_color="transparent")
             btn_frame.grid(row=row_idx, column=2, padx=(0, 20), pady=5, sticky="e")
             
-            assign_btn = ctk.CTkButton(btn_frame, text="Assign", width=60, 
+            assign_btn = ctk.CTkButton(btn_frame, text="bind", width=60, 
                                        command=lambda a=action_name: self.listen_for_hotkey(a))
             assign_btn.pack(side="left", padx=(0, 5))
             
