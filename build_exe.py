@@ -3,6 +3,9 @@ import subprocess
 import sys
 
 def main():
+    print("Installing requirements.txt...")
+    subprocess.check_call([sys.executable, "-m", "pip", "install", "-r", "requirements.txt"])
+    
     print("Installing PyInstaller...")
     subprocess.check_call([sys.executable, "-m", "pip", "install", "pyinstaller"])
     
@@ -14,6 +17,8 @@ def main():
         "--noconsole",
         "--clean",
         "--collect-all=customtkinter",
+        "--hidden-import=mido.backends.rtmidi",
+        "--hidden-import=keyboard",
     ]
     
     # Добавляем иконку, если она существует
